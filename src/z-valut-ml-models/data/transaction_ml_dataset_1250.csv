@@ -1,0 +1,1251 @@
+counterparty,mode,amount,hour,day_of_week,freq_per_week,avg_amount_counterparty,transaction_count_counterparty,days_since_last_transaction,category
+Kumar Cafe,UPI,283.17,13,Wednesday,5,838.58,11,7,Food
+Local Pharmacy,CARD,290.32,18,Saturday,1,269.82,6,3,Healthcare
+Suresh,UPI,624.6,14,Wednesday,1,543.78,31,3,Food
+Reliance Smart,UPI,293.13,18,Tuesday,1,371.39,11,6,Groceries
+Water Board,UPI,326.23,10,Monday,1,388.68,6,9,Bills
+Travel Agency,NETBANKING,3990.88,20,Tuesday,1,3674.16,2,4,Travel
+Metro Cab,CASH,1280.33,20,Thursday,5,1718.36,7,2,Transport
+Kumar Enterprises,UPI,2737.27,18,Sunday,3,4197.82,9,19,Shopping
+Maa Grocery,UPI,3443.4,19,Sunday,2,4620.17,9,1,Groceries
+Sai Restaurant,UPI,196.92,22,Wednesday,2,177.31,5,3,Food
+Kumar Enterprises,CARD,805.1,10,Thursday,4,579.36,9,1,Shopping
+Rakesh,CARD,230.9,13,Saturday,6,175.85,31,3,Food
+Local Mart,UPI,197.89,21,Thursday,4,306.72,8,1,Groceries
+Local Cafe,UPI,380.55,13,Wednesday,6,307.01,21,2,Food
+Uber,CARD,1519.1,20,Monday,3,955.61,16,1,Transport
+Annapurna,UPI,105.63,13,Wednesday,1,83.52,7,3,Food
+Power Services,UPI,1517.16,11,Thursday,1,3523.32,13,11,Bills
+Fresh Basket,CASH,1277.56,11,Monday,1,858.19,19,1,Groceries
+Jio,UPI,3569.58,14,Friday,1,2896.48,7,7,Bills
+Internet Services,UPI,427.63,17,Sunday,3,523.71,10,1,Bills
+Auto Driver,UPI,186.04,18,Monday,3,218.96,7,0,Transport
+Local Cafe,UPI,387.78,12,Thursday,5,241.24,8,0,Food
+Reliance Smart,CARD,1590.31,12,Monday,2,2793.52,7,0,Groceries
+City Hospital,CARD,170.2,8,Sunday,1,132.32,3,36,Healthcare
+Suresh,UPI,166.43,12,Sunday,2,206.44,5,0,Food
+Priya Foods,UPI,91.15,13,Thursday,3,106.27,15,2,Food
+Cab Service,CARD,200.89,18,Tuesday,3,259.89,6,4,Transport
+Uber,UPI,183.68,8,Monday,7,278.27,14,10,Transport
+Clinic,CARD,223.35,13,Sunday,1,117.42,5,1,Healthcare
+Local Store,CARD,1246.86,14,Monday,2,1289.38,5,33,Shopping
+Local Store,CARD,2618.91,14,Monday,1,2401.5,5,4,Shopping
+Myntra,CARD,9001.1,10,Wednesday,1,8604.66,3,14,Shopping
+General Store,UPI,1587.2,21,Wednesday,2,1988.84,4,18,Shopping
+City Mart,UPI,492.27,20,Wednesday,2,511.07,14,4,Groceries
+Local Pharmacy,UPI,1504.2,18,Monday,1,978.49,4,88,Healthcare
+Clinic,CARD,162.39,16,Monday,1,148.22,11,4,Healthcare
+Internet Services,CARD,2573.46,14,Wednesday,4,3496.39,1,24,Bills
+Rahul Kumar,UPI,929.05,12,Sunday,5,813.82,10,0,Food
+Suresh,CARD,106.5,7,Thursday,5,111.21,8,6,Food
+Ola Cabs,UPI,765.98,20,Tuesday,5,887.64,10,1,Transport
+Cloud Service,UPI,572.1,23,Friday,2,485.87,9,11,Subscriptions
+Hotel,NETBANKING,4282.74,16,Friday,3,5010.62,7,60,Travel
+Rakesh,CARD,1256.21,13,Monday,4,1141.58,6,2,Food
+Rahul Kumar,UPI,107.24,8,Wednesday,2,78.87,34,4,Food
+Training Center,UPI,2387.63,10,Saturday,1,2443.41,3,38,Education
+Ananya Stores,UPI,162.03,12,Friday,6,130.34,7,7,Groceries
+Amazon Prime,CARD,325.02,20,Thursday,1,462.7,10,3,Subscriptions
+Software Service,CARD,135.84,1,Friday,1,204.62,15,12,Subscriptions
+Book Store,UPI,860.35,14,Sunday,1,767.09,5,1,Education
+Local Mart,CARD,889.24,8,Tuesday,4,633.33,8,1,Groceries
+PVR,UPI,944.41,22,Monday,2,570.03,12,7,Entertainment
+Uber,UPI,159.08,9,Tuesday,4,188.77,10,7,Transport
+Property Manager,NETBANKING,6425.61,11,Wednesday,2,4192.88,2,15,Rent
+Priya Foods,UPI,103.22,8,Wednesday,1,45.44,22,2,Food
+City Mart,UPI,379.43,18,Friday,4,472.07,14,2,Groceries
+Software Service,CARD,100.21,18,Friday,2,71.15,31,62,Subscriptions
+City Bus,UPI,41.76,21,Friday,5,47.24,9,3,Transport
+Landlord,UPI,12669.99,10,Friday,1,9358.1,7,35,Rent
+Ravi,UPI,12929.24,12,Thursday,1,11355.81,7,4,Transfer
+Priya Foods,UPI,170.21,22,Tuesday,4,152.38,6,4,Food
+Annapurna,CARD,97.69,19,Monday,4,128.78,19,1,Food
+Uber,UPI,75.71,18,Monday,3,74.67,19,3,Transport
+Local Pharmacy,CARD,115.29,17,Wednesday,2,95.61,1,23,Healthcare
+Event Ticket,NETBANKING,1471.68,20,Sunday,3,1686.51,7,23,Entertainment
+Local Cafe,UPI,106.86,14,Friday,4,182.39,25,6,Food
+Electro World,UPI,2050.12,10,Thursday,1,1946.49,4,0,Shopping
+Ananya Stores,UPI,286.97,20,Wednesday,2,340.09,4,13,Groceries
+College Office,CARD,3191.17,18,Thursday,3,3792.74,4,101,Education
+General Store,UPI,266.74,19,Tuesday,1,249.46,5,11,Shopping
+Daily Needs,UPI,683.75,17,Thursday,3,1045.34,16,5,Groceries
+Netflix,UPI,200.68,18,Saturday,1,129.31,7,14,Subscriptions
+Exam Cell,UPI,1274.87,16,Saturday,1,1306.47,7,19,Education
+Electro World,UPI,4833.84,15,Tuesday,4,5957.0,4,12,Shopping
+Arjun,UPI,1020.55,11,Tuesday,1,356.91,3,16,Transfer
+Ravi,UPI,264.13,22,Wednesday,1,183.2,5,10,Transfer
+Campus Canteen,UPI,582.01,12,Saturday,3,553.99,9,1,Food
+Myntra,CARD,681.72,17,Tuesday,1,603.51,10,4,Shopping
+Fresh Basket,UPI,158.89,8,Saturday,2,234.49,5,1,Groceries
+Suresh,CARD,928.03,21,Wednesday,4,918.2,36,5,Food
+Auto Driver,CASH,125.06,7,Saturday,3,302.19,25,6,Transport
+Daily Needs,UPI,649.84,19,Sunday,2,750.26,9,4,Groceries
+Fresh Basket,CARD,884.49,10,Saturday,2,752.69,6,1,Groceries
+Online Course,CASH,1275.6,19,Sunday,2,1464.98,1,4,Education
+Water Board,NETBANKING,405.09,20,Tuesday,1,336.63,2,21,Bills
+Rahul Kumar,UPI,116.07,7,Thursday,5,89.98,12,0,Food
+Electricity Office,CARD,2800.16,17,Thursday,2,1966.34,4,17,Bills
+Airline,CARD,19657.88,10,Thursday,1,23498.64,3,175,Travel
+Daily Needs,UPI,695.74,11,Saturday,3,1055.81,4,11,Groceries
+Movie Zone,UPI,201.99,22,Friday,1,158.87,7,48,Entertainment
+Sai Restaurant,UPI,109.82,19,Monday,5,122.62,25,0,Food
+Myntra,CARD,10508.89,17,Saturday,1,11465.57,10,22,Shopping
+Event Ticket,CARD,1793.78,12,Monday,1,2256.45,3,0,Entertainment
+Power Services,CARD,435.46,14,Thursday,1,347.39,8,27,Bills
+Exam Cell,UPI,422.03,14,Sunday,1,433.25,10,47,Education
+Maa Grocery,UPI,275.27,12,Tuesday,5,167.31,3,4,Groceries
+Movie Zone,CARD,409.31,18,Thursday,1,424.59,18,6,Entertainment
+Suresh,UPI,526.82,22,Sunday,5,616.32,11,3,Food
+Apollo,UPI,327.17,14,Tuesday,1,171.08,2,7,Healthcare
+Rajesh,CASH,5745.36,20,Sunday,1,6715.83,3,8,Rent
+City Bus,CARD,247.99,19,Tuesday,5,280.11,12,1,Transport
+Rakesh,UPI,83.5,14,Friday,1,166.21,59,1,Food
+Training Center,NETBANKING,1782.79,9,Thursday,2,2161.98,16,72,Education
+Online Course,NETBANKING,347.64,8,Tuesday,1,248.0,3,0,Education
+Medical Store,UPI,275.55,17,Wednesday,1,280.55,3,10,Healthcare
+Priya Foods,CARD,424.08,14,Thursday,5,454.84,18,2,Food
+Rapido,UPI,764.85,19,Sunday,7,841.5,18,2,Transport
+General Store,CARD,205.05,21,Sunday,2,156.81,4,32,Shopping
+Cab Service,UPI,152.36,9,Thursday,4,284.27,23,0,Transport
+Kiran,UPI,723.02,9,Thursday,1,929.14,17,1,Transfer
+Ananya Stores,UPI,471.16,8,Tuesday,2,373.9,6,1,Groceries
+Rapido,UPI,1248.2,22,Thursday,7,2533.17,20,2,Transport
+Annapurna,UPI,118.6,9,Saturday,4,143.34,14,1,Food
+Power Services,CARD,574.69,17,Saturday,3,507.6,1,1,Bills
+BookMyShow,UPI,2902.06,22,Friday,1,2486.48,16,26,Entertainment
+General Store,UPI,282.65,15,Saturday,1,502.27,14,4,Shopping
+Hostel Rent,NETBANKING,22038.67,12,Friday,1,14042.54,2,16,Rent
+Internet Services,UPI,2778.02,12,Wednesday,1,3372.52,2,3,Bills
+Sai Restaurant,UPI,161.7,22,Saturday,4,240.37,27,1,Food
+Daily Needs,CARD,340.98,20,Wednesday,5,407.13,3,3,Groceries
+College Office,UPI,13522.44,18,Friday,1,19598.74,3,10,Education
+Hostel Rent,UPI,5744.17,18,Saturday,1,4540.41,8,1,Rent
+Spotify,CARD,234.02,18,Friday,1,212.3,2,14,Subscriptions
+Priya Sharma,UPI,2640.33,9,Thursday,4,6310.05,9,15,Transfer
+Rajesh,UPI,26010.65,21,Monday,1,18581.33,7,24,Rent
+Local Mart,NETBANKING,176.54,19,Sunday,3,174.81,5,5,Groceries
+Green Bites,CARD,1091.88,20,Saturday,5,954.02,10,0,Food
+Electro World,CARD,7843.52,11,Sunday,2,10191.7,4,4,Shopping
+Campus Canteen,CASH,159.13,9,Sunday,2,198.25,9,1,Food
+Amazon Prime,UPI,152.58,21,Wednesday,1,150.6,4,5,Subscriptions
+Rakesh,CASH,302.72,12,Tuesday,3,191.83,9,0,Food
+Maa Grocery,UPI,249.11,8,Monday,1,148.99,12,5,Groceries
+Rakesh,UPI,113.92,7,Sunday,3,84.99,6,0,Food
+Water Board,UPI,320.04,18,Monday,4,223.72,4,9,Bills
+Local Pharmacy,CASH,607.89,13,Saturday,1,589.04,3,14,Healthcare
+General Store,CARD,880.92,14,Monday,1,1081.31,2,5,Shopping
+Auto Driver,CASH,116.65,7,Saturday,3,150.49,7,0,Transport
+Ola Cabs,CASH,480.26,22,Monday,4,687.13,18,0,Transport
+YouTube,CARD,433.24,22,Monday,1,512.97,3,65,Subscriptions
+Power Services,UPI,1282.2,15,Saturday,1,994.15,24,11,Bills
+Electro World,CARD,227.93,10,Saturday,2,356.41,6,0,Shopping
+Auto Driver,UPI,482.7,8,Tuesday,2,270.83,12,2,Transport
+Rakesh,UPI,503.64,8,Saturday,2,259.21,28,0,Food
+Movie Zone,UPI,879.53,14,Thursday,3,940.8,13,10,Entertainment
+Fresh Basket,UPI,540.38,19,Wednesday,4,554.03,4,0,Groceries
+Room Owner,NETBANKING,22467.3,9,Thursday,1,15510.82,1,50,Rent
+Flipkart,CARD,3946.31,21,Sunday,2,3674.65,2,1,Shopping
+Arjun,UPI,1313.99,12,Thursday,3,1105.56,11,2,Transfer
+Clinic,UPI,220.97,14,Monday,1,200.05,14,2,Healthcare
+Priya Foods,UPI,209.69,7,Friday,4,191.77,4,5,Food
+Clinic,UPI,463.2,11,Wednesday,1,658.78,18,3,Healthcare
+Flipkart,CARD,3038.32,21,Friday,3,2973.54,18,15,Shopping
+Amazon,CARD,600.96,18,Friday,1,380.48,6,24,Shopping
+Rapido,UPI,71.03,21,Monday,4,43.78,13,0,Transport
+Fashion Point,CARD,457.3,19,Sunday,1,373.66,3,2,Shopping
+Room Owner,UPI,12804.2,19,Sunday,1,12579.99,2,13,Rent
+Apollo,UPI,1567.29,9,Wednesday,1,2852.61,5,8,Healthcare
+Suresh,CARD,852.4,9,Wednesday,3,635.17,12,2,Food
+Maa Grocery,CASH,500.76,21,Thursday,1,411.5,10,0,Groceries
+Rapido,UPI,166.55,21,Tuesday,4,165.89,19,8,Transport
+Medical Store,UPI,2342.41,11,Tuesday,2,1661.9,1,4,Healthcare
+Suresh,CARD,923.21,13,Wednesday,5,972.54,28,6,Food
+Maa Grocery,UPI,2264.89,20,Tuesday,3,2425.56,3,2,Groceries
+Power Services,UPI,569.55,17,Sunday,2,523.75,4,3,Bills
+Green Bites,CARD,90.31,12,Friday,5,111.47,22,11,Food
+Apollo,UPI,407.67,18,Monday,1,413.71,4,85,Healthcare
+Fashion Point,UPI,498.35,16,Tuesday,1,433.94,11,5,Shopping
+Friend,UPI,16509.46,18,Tuesday,1,15306.43,7,20,Transfer
+Priya Foods,NETBANKING,784.21,21,Sunday,5,932.64,13,2,Food
+Rakesh,CARD,767.98,8,Sunday,4,1053.84,6,2,Food
+Rapido,UPI,310.39,10,Wednesday,3,571.4,23,2,Transport
+Power Services,UPI,407.28,15,Wednesday,3,376.89,10,26,Bills
+Ola Cabs,CASH,1019.51,18,Saturday,6,526.17,6,2,Transport
+Health Care,CARD,541.36,11,Saturday,2,748.24,5,7,Healthcare
+BookMyShow,CARD,220.55,19,Friday,2,221.39,6,21,Entertainment
+Ananya Stores,UPI,1899.62,11,Thursday,1,2768.09,10,4,Groceries
+Priya Foods,CASH,211.27,20,Wednesday,6,140.35,10,1,Food
+Movie Zone,CARD,280.88,21,Monday,1,347.19,5,8,Entertainment
+Local Cafe,UPI,939.46,22,Tuesday,1,686.23,32,3,Food
+Exam Cell,CARD,4259.54,10,Thursday,1,6818.14,2,35,Education
+Electricity Office,NETBANKING,888.27,18,Tuesday,2,853.55,16,9,Bills
+Airtel,UPI,2801.53,12,Wednesday,5,3112.91,14,22,Bills
+City Mart,UPI,1231.7,20,Wednesday,2,1419.05,7,1,Groceries
+Kumar Enterprises,UPI,339.0,17,Friday,1,290.44,4,2,Shopping
+City Bus,UPI,815.42,20,Wednesday,5,1285.23,13,4,Transport
+Electro World,CASH,604.98,17,Friday,1,287.14,7,17,Shopping
+Rapido,UPI,49.54,10,Thursday,4,58.93,18,2,Transport
+City Mart,NETBANKING,2631.62,21,Sunday,4,1788.96,26,19,Groceries
+Netflix,UPI,1353.4,18,Tuesday,1,711.98,7,6,Subscriptions
+Kumar Enterprises,CARD,431.59,15,Sunday,1,341.1,16,9,Shopping
+Health Care,UPI,3809.14,15,Tuesday,4,4249.46,5,8,Healthcare
+City Mart,UPI,1093.46,18,Sunday,1,1200.9,4,9,Groceries
+Flipkart,CARD,1686.7,12,Wednesday,1,1936.87,1,4,Shopping
+Local Mart,UPI,1783.9,10,Monday,1,2342.17,6,11,Groceries
+City Mart,UPI,169.71,8,Sunday,4,167.39,9,3,Groceries
+Rakesh,UPI,292.56,19,Saturday,4,199.82,30,3,Food
+BSNL,CASH,1349.89,10,Friday,1,1109.5,6,69,Bills
+Landlord,NETBANKING,22719.09,18,Tuesday,2,12673.32,2,46,Rent
+MakeMyTrip,CARD,1175.22,12,Monday,1,750.03,1,75,Travel
+Ananya Stores,UPI,517.03,12,Friday,4,678.19,10,2,Groceries
+Local Cafe,UPI,291.05,9,Thursday,5,356.15,10,4,Food
+Software Service,NETBANKING,404.5,0,Sunday,1,658.3,3,11,Subscriptions
+Local Pharmacy,UPI,175.43,18,Friday,2,191.42,4,24,Healthcare
+Local Cafe,UPI,461.72,13,Saturday,3,314.22,14,12,Food
+Local Store,UPI,9654.9,15,Friday,2,14693.0,8,14,Shopping
+Maa Grocery,UPI,984.98,12,Thursday,2,951.06,21,2,Groceries
+Flipkart,UPI,1289.76,20,Friday,2,1284.01,4,6,Shopping
+Uber,CASH,232.31,10,Sunday,5,153.51,41,5,Transport
+Health Care,NETBANKING,131.02,9,Sunday,1,205.16,8,37,Healthcare
+Health Care,CARD,5091.22,13,Wednesday,1,4529.71,2,58,Healthcare
+Event Ticket,CARD,514.1,18,Saturday,1,482.15,4,12,Entertainment
+Metro Cab,UPI,1640.5,18,Friday,3,1721.8,12,1,Transport
+Fashion Point,UPI,652.31,21,Tuesday,1,877.98,5,17,Shopping
+Game Store,UPI,1914.99,14,Wednesday,1,1638.15,9,1,Entertainment
+Maa Grocery,CARD,337.38,21,Saturday,1,366.32,18,10,Groceries
+Flipkart,UPI,4932.53,12,Monday,2,3301.63,8,5,Shopping
+Training Center,UPI,16653.76,17,Sunday,1,24506.02,4,112,Education
+Amazon,CARD,11887.1,11,Saturday,1,30000.0,5,22,Shopping
+Health Care,CARD,359.87,13,Sunday,2,205.2,10,44,Healthcare
+Auto Driver,UPI,753.64,8,Friday,1,818.77,48,5,Transport
+Priya Foods,UPI,369.45,13,Monday,4,471.39,24,7,Food
+Apollo,CASH,3338.28,10,Saturday,1,3808.35,3,69,Healthcare
+Suresh,UPI,799.7,8,Friday,2,599.41,16,2,Food
+Water Board,UPI,4816.35,18,Saturday,3,5165.58,1,24,Bills
+Friend,UPI,545.16,10,Monday,1,837.45,19,37,Transfer
+Local Store,UPI,9485.48,16,Thursday,1,16630.57,6,20,Shopping
+Medical Store,CARD,3958.22,16,Monday,1,8426.02,5,85,Healthcare
+Suresh,NETBANKING,527.54,12,Monday,4,637.13,7,3,Food
+Water Board,UPI,648.27,12,Wednesday,1,307.8,3,18,Bills
+Local Cafe,UPI,210.68,7,Saturday,4,193.53,6,0,Food
+Gaming Cafe,CARD,137.7,20,Sunday,1,148.41,2,9,Entertainment
+Ola Cabs,UPI,751.33,21,Tuesday,4,616.27,12,3,Transport
+City Bus,UPI,714.98,17,Friday,5,1221.11,15,1,Transport
+Priya Foods,UPI,100.06,7,Monday,4,83.84,12,2,Food
+Local Mart,CASH,1629.78,18,Monday,4,953.08,6,3,Groceries
+Kumar Enterprises,CASH,312.14,21,Monday,1,332.93,4,49,Shopping
+Internet Services,NETBANKING,318.07,11,Friday,2,315.53,6,35,Bills
+Green Bites,NETBANKING,1269.41,20,Sunday,4,938.93,8,5,Food
+Priya Foods,CASH,210.91,7,Tuesday,3,217.37,6,0,Food
+Local Mart,CARD,205.87,18,Wednesday,4,311.81,9,6,Groceries
+Jio,UPI,2761.23,16,Friday,2,4046.01,7,52,Bills
+Local Store,CARD,3592.8,19,Monday,3,4215.51,5,1,Shopping
+Fresh Basket,UPI,2018.31,20,Sunday,2,2051.52,19,5,Groceries
+Local Mart,UPI,180.71,12,Monday,1,128.38,16,0,Groceries
+Airline,UPI,9259.55,20,Sunday,1,5179.96,2,91,Travel
+Reliance Smart,UPI,489.68,12,Sunday,3,1018.25,10,3,Groceries
+Apollo,UPI,887.09,12,Saturday,1,966.49,8,35,Healthcare
+Kumar Cafe,UPI,289.85,8,Wednesday,4,196.24,6,3,Food
+Kumar Cafe,UPI,577.17,21,Friday,2,978.39,25,4,Food
+Kumar Cafe,UPI,83.3,19,Monday,7,47.67,6,3,Food
+Movie Zone,UPI,203.07,18,Saturday,1,187.8,2,11,Entertainment
+Room Owner,NETBANKING,5068.69,18,Thursday,1,14716.16,2,12,Rent
+Landlord,UPI,9770.49,19,Wednesday,1,7962.23,2,74,Rent
+Campus Canteen,UPI,266.87,21,Friday,3,528.96,15,0,Food
+Green Bites,UPI,204.66,13,Wednesday,4,344.81,7,0,Food
+Local Store,UPI,2034.21,14,Friday,3,1296.43,6,39,Shopping
+Ananya Stores,UPI,340.56,17,Saturday,1,320.55,10,11,Groceries
+Arjun,UPI,2211.02,19,Thursday,2,3904.77,8,3,Transfer
+Flipkart,UPI,8935.62,10,Thursday,1,9595.35,4,8,Shopping
+Electro World,UPI,222.98,15,Thursday,1,92.6,18,28,Shopping
+Ravi,UPI,464.57,22,Sunday,2,532.07,9,4,Transfer
+City Mart,CARD,256.51,20,Monday,1,315.42,12,0,Groceries
+Hostel Rent,NETBANKING,10445.96,21,Saturday,1,10280.72,2,19,Rent
+Suresh,CASH,213.48,13,Monday,3,191.81,25,5,Food
+Medical Store,UPI,9178.99,14,Sunday,1,6171.82,2,59,Healthcare
+General Store,CARD,2180.57,19,Tuesday,5,2041.17,24,3,Shopping
+Cab Service,CARD,90.33,17,Friday,6,69.34,15,1,Transport
+City Mart,NETBANKING,2113.72,10,Friday,2,1670.52,9,1,Groceries
+Green Bites,UPI,636.89,19,Tuesday,2,335.85,19,2,Food
+Gaming Cafe,UPI,269.41,21,Thursday,1,453.07,5,1,Entertainment
+Airtel,NETBANKING,5331.3,11,Saturday,1,5952.17,4,15,Bills
+Myntra,UPI,4217.13,16,Tuesday,3,2710.18,27,19,Shopping
+University Fees,UPI,553.95,18,Sunday,2,368.03,15,16,Education
+Movie Zone,CARD,609.66,17,Friday,2,770.73,1,4,Entertainment
+Electro World,CARD,589.93,11,Monday,1,1143.97,8,6,Shopping
+Annapurna,NETBANKING,210.28,9,Tuesday,5,284.71,11,0,Food
+BookMyShow,UPI,130.5,20,Saturday,1,82.15,14,17,Entertainment
+Fresh Basket,UPI,1132.06,18,Friday,2,926.13,17,1,Groceries
+Annapurna,UPI,1250.79,7,Saturday,4,2884.09,6,1,Food
+Flipkart,CARD,572.06,20,Saturday,3,527.55,9,16,Shopping
+Flipkart,CARD,11455.67,21,Wednesday,4,15703.17,2,22,Shopping
+Jio,UPI,4234.15,20,Thursday,3,7030.86,31,12,Bills
+Ola Cabs,UPI,231.42,17,Sunday,4,162.19,39,2,Transport
+Sai Restaurant,UPI,97.38,12,Monday,5,106.11,18,0,Food
+Fresh Basket,UPI,1041.63,12,Tuesday,2,1145.67,5,0,Groceries
+Uber,CARD,42.33,17,Monday,5,40.0,25,16,Transport
+Training Center,UPI,4764.05,12,Saturday,1,4688.35,4,42,Education
+Ola Cabs,CARD,134.06,7,Saturday,2,166.01,3,8,Transport
+Amazon Prime,CARD,391.78,21,Wednesday,1,408.3,1,5,Subscriptions
+Family Account,UPI,685.77,8,Monday,1,837.8,9,13,Transfer
+Internet Services,CARD,463.44,10,Monday,1,464.64,6,34,Bills
+Kumar Cafe,UPI,398.25,8,Thursday,4,363.77,31,1,Food
+Metro Cab,UPI,739.0,18,Monday,5,648.46,56,3,Transport
+YouTube,NETBANKING,118.07,22,Wednesday,2,127.02,8,5,Subscriptions
+Kumar Enterprises,CASH,840.33,20,Friday,2,750.27,11,3,Shopping
+Rakesh,UPI,213.94,12,Thursday,5,216.59,14,0,Food
+Rakesh,CARD,158.98,13,Friday,5,201.15,5,4,Food
+Kumar Cafe,UPI,139.73,19,Wednesday,3,106.48,60,2,Food
+City Bus,UPI,1451.03,9,Wednesday,6,1897.7,43,1,Transport
+Green Bites,UPI,176.02,14,Sunday,3,194.75,10,8,Food
+General Store,CARD,2928.38,20,Sunday,3,3680.61,12,2,Shopping
+Event Ticket,CARD,583.56,22,Saturday,5,845.42,7,11,Entertainment
+Apollo,CASH,396.51,11,Friday,1,305.54,4,77,Healthcare
+Ravi,UPI,895.02,12,Saturday,1,620.4,10,6,Transfer
+Flipkart,UPI,409.52,10,Tuesday,1,350.07,10,10,Shopping
+Cab Service,UPI,82.32,8,Saturday,1,70.19,18,0,Transport
+Fashion Point,UPI,263.82,10,Tuesday,1,438.37,10,1,Shopping
+BSNL,UPI,830.19,18,Thursday,1,1011.61,5,4,Bills
+YouTube,CARD,970.8,2,Thursday,1,897.6,1,6,Subscriptions
+Rahul Kumar,UPI,697.35,9,Thursday,1,1001.36,6,1,Food
+Myntra,CARD,472.39,16,Monday,2,470.6,3,14,Shopping
+Kiran,CASH,15720.74,21,Tuesday,3,24059.29,5,1,Transfer
+Ananya Stores,UPI,239.04,19,Thursday,2,179.56,11,0,Groceries
+Neha,UPI,6010.71,19,Friday,2,6099.41,18,14,Transfer
+BookMyShow,UPI,109.32,15,Monday,4,80.44,5,20,Entertainment
+Uber,NETBANKING,638.95,20,Thursday,3,923.39,13,6,Transport
+Spotify,CARD,2181.15,2,Thursday,1,1492.0,5,39,Subscriptions
+Myntra,CARD,598.9,20,Friday,1,439.0,3,6,Shopping
+City Hospital,CARD,1744.73,11,Friday,1,1313.44,4,30,Healthcare
+Flipkart,UPI,451.83,21,Saturday,1,185.96,9,0,Shopping
+Maa Grocery,CARD,1312.72,12,Saturday,1,2731.42,3,1,Groceries
+Daily Needs,UPI,1420.91,10,Thursday,3,1454.1,24,4,Groceries
+Campus Canteen,UPI,579.66,13,Tuesday,4,551.61,9,0,Food
+Local Cafe,UPI,537.47,21,Wednesday,3,765.26,25,5,Food
+Rakesh,NETBANKING,164.05,13,Sunday,4,113.81,13,0,Food
+Kumar Cafe,CARD,911.8,12,Tuesday,2,1073.91,16,3,Food
+Campus Canteen,UPI,170.97,7,Tuesday,3,149.96,28,1,Food
+BookMyShow,UPI,256.36,17,Friday,3,268.74,19,5,Entertainment
+City Mart,CARD,819.97,10,Tuesday,2,1105.64,60,1,Groceries
+Metro Cab,UPI,58.58,20,Thursday,4,73.42,9,0,Transport
+Landlord,UPI,8200.51,9,Wednesday,1,8957.48,3,21,Rent
+Local Mart,UPI,421.59,11,Friday,5,386.5,11,1,Groceries
+Spotify,NETBANKING,397.38,23,Monday,1,594.14,14,3,Subscriptions
+Electricity Office,UPI,1066.79,18,Thursday,1,975.42,9,23,Bills
+Jio,UPI,840.73,10,Tuesday,1,1018.53,9,6,Bills
+Gaming Cafe,CARD,125.52,17,Saturday,4,119.35,7,25,Entertainment
+Local Mart,UPI,2359.55,21,Tuesday,1,1536.62,21,0,Groceries
+Internet Services,CARD,2224.64,12,Tuesday,1,1516.57,7,10,Bills
+IRCTC,UPI,7110.81,19,Thursday,1,4532.16,8,8,Travel
+City Bus,CARD,101.75,9,Wednesday,2,59.35,13,4,Transport
+Water Board,UPI,507.61,14,Sunday,1,982.07,10,75,Bills
+Local Cafe,CASH,157.72,19,Saturday,7,306.46,9,1,Food
+Maa Grocery,CARD,1776.49,10,Friday,5,1039.99,4,1,Groceries
+Local Mart,UPI,212.89,17,Thursday,4,211.5,5,6,Groceries
+Gaming Cafe,UPI,298.05,14,Tuesday,4,466.01,3,8,Entertainment
+City Mart,UPI,652.03,18,Wednesday,1,821.59,11,1,Groceries
+Hostel Rent,UPI,8405.45,21,Monday,1,8875.48,4,19,Rent
+Rapido,UPI,137.62,17,Friday,3,160.11,15,1,Transport
+Software Service,UPI,1037.87,2,Friday,2,554.28,6,31,Subscriptions
+Rakesh,UPI,199.58,9,Wednesday,4,141.28,29,1,Food
+Reliance Smart,CARD,2070.75,19,Sunday,3,2121.22,13,9,Groceries
+Flipkart,UPI,4568.57,11,Friday,1,5253.05,16,0,Shopping
+Kumar Enterprises,CARD,1783.35,19,Friday,2,2185.65,4,2,Shopping
+Rahul Kumar,CARD,131.71,14,Friday,3,142.52,14,3,Food
+Airline,CARD,5190.53,10,Tuesday,1,12419.83,2,49,Travel
+Water Board,UPI,1131.2,18,Monday,2,1125.56,2,9,Bills
+Clinic,CARD,122.09,14,Saturday,1,128.77,7,15,Healthcare
+Software Service,UPI,442.17,2,Friday,1,354.86,8,45,Subscriptions
+Kiran,UPI,396.31,15,Tuesday,1,469.65,8,6,Transfer
+Myntra,CARD,801.7,10,Wednesday,1,497.34,10,9,Shopping
+Sai Restaurant,CASH,1192.48,20,Tuesday,4,1735.72,20,3,Food
+Electricity Office,CARD,412.56,14,Thursday,2,419.4,3,70,Bills
+City Bus,CASH,80.02,20,Wednesday,6,85.41,4,2,Transport
+BSNL,CARD,416.36,14,Friday,1,406.21,2,60,Bills
+Fresh Basket,NETBANKING,418.98,20,Tuesday,2,446.36,14,1,Groceries
+Ola Cabs,UPI,123.86,9,Monday,3,129.58,17,2,Transport
+City Bus,UPI,323.8,13,Saturday,5,273.25,48,4,Transport
+City Mart,UPI,756.52,19,Tuesday,5,1060.36,4,0,Groceries
+Event Ticket,UPI,1118.32,15,Wednesday,1,1415.43,5,37,Entertainment
+Ananya Stores,UPI,616.4,21,Wednesday,1,898.18,27,0,Groceries
+Exam Cell,UPI,1908.52,15,Tuesday,1,1833.48,7,180,Education
+Metro Cab,CASH,1573.65,9,Saturday,1,1969.43,13,12,Transport
+Local Mart,UPI,2736.69,20,Wednesday,3,1713.12,16,1,Groceries
+Priya Sharma,NETBANKING,16610.68,18,Thursday,3,23305.48,6,12,Transfer
+Ola Cabs,UPI,150.75,17,Saturday,3,125.83,29,6,Transport
+Airtel,NETBANKING,7544.46,15,Saturday,3,2853.41,4,5,Bills
+Annapurna,UPI,1046.24,13,Wednesday,2,1313.85,11,1,Food
+Fresh Point,CARD,1589.13,18,Tuesday,5,1536.97,8,11,Groceries
+BSNL,UPI,1579.83,20,Thursday,3,1408.04,4,2,Bills
+Online Course,CARD,19751.79,9,Saturday,2,22130.38,2,63,Education
+Flipkart,CARD,875.51,20,Monday,2,839.14,3,3,Shopping
+Internet Services,CARD,3456.05,12,Monday,1,4262.29,11,1,Bills
+Airtel,UPI,4361.79,18,Monday,3,2774.18,5,8,Bills
+City Mart,UPI,419.32,19,Sunday,1,507.49,4,2,Groceries
+Suresh,CARD,770.98,21,Thursday,6,397.27,7,10,Food
+Game Store,CARD,1228.78,15,Saturday,2,744.85,10,2,Entertainment
+Metro Cab,UPI,1634.83,7,Thursday,5,1428.0,17,1,Transport
+City Mart,CARD,792.5,11,Wednesday,2,673.29,6,1,Groceries
+University Fees,UPI,510.75,9,Wednesday,1,524.7,6,11,Education
+General Store,CARD,1048.9,10,Sunday,1,1598.91,6,17,Shopping
+Reliance Smart,CARD,1576.79,8,Saturday,1,1222.13,20,4,Groceries
+City Mart,UPI,282.8,11,Saturday,3,357.95,4,1,Groceries
+Power Services,NETBANKING,2181.95,11,Saturday,1,3262.52,5,22,Bills
+Medical Store,CARD,5686.62,18,Monday,3,5423.88,6,26,Healthcare
+Kumar Cafe,UPI,159.45,21,Wednesday,2,72.88,10,1,Food
+Medical Store,UPI,156.71,17,Friday,1,98.68,3,5,Healthcare
+City Mart,UPI,1287.42,17,Tuesday,1,1663.97,8,2,Groceries
+Training Center,UPI,613.49,17,Saturday,1,632.35,5,59,Education
+Apollo,NETBANKING,2794.01,9,Sunday,2,2389.23,4,14,Healthcare
+Ola Cabs,CASH,884.84,20,Monday,3,762.25,14,1,Transport
+Local Store,CARD,893.2,14,Tuesday,2,559.65,11,2,Shopping
+Kumar Enterprises,UPI,1486.93,17,Saturday,1,1340.05,2,7,Shopping
+Hostel Rent,UPI,8436.19,21,Thursday,1,8438.13,2,12,Rent
+Local Cafe,UPI,1097.47,13,Monday,7,1397.88,13,3,Food
+Reliance Smart,UPI,1185.92,10,Tuesday,3,1101.56,7,3,Groceries
+Travel Agency,CASH,3820.88,12,Monday,1,4423.12,4,45,Travel
+BookMyShow,UPI,306.26,18,Thursday,1,340.04,9,3,Entertainment
+Electricity Office,UPI,2483.71,10,Sunday,1,4493.23,3,11,Bills
+Sai Restaurant,UPI,280.12,19,Sunday,4,259.61,10,1,Food
+Campus Canteen,UPI,116.04,7,Friday,3,88.53,24,0,Food
+Friend,CARD,301.16,11,Thursday,2,484.45,15,21,Transfer
+Rahul Kumar,UPI,249.55,8,Saturday,6,242.46,27,5,Food
+PVR,UPI,172.35,12,Thursday,3,164.5,10,16,Entertainment
+Netflix,NETBANKING,390.12,22,Wednesday,1,458.48,3,2,Subscriptions
+Bus Booking,NETBANKING,3558.33,19,Friday,1,2563.78,3,21,Travel
+Local Cafe,UPI,469.14,13,Wednesday,3,1485.86,16,6,Food
+General Store,CARD,10548.02,11,Thursday,2,7519.74,4,22,Shopping
+Electro World,UPI,2413.69,12,Saturday,2,1253.45,3,17,Shopping
+City Bus,CARD,598.92,8,Wednesday,2,685.88,10,0,Transport
+Metro Cab,CASH,183.52,20,Monday,2,195.71,28,2,Transport
+Exam Cell,CASH,3086.1,12,Friday,1,3749.88,4,118,Education
+Kumar Cafe,UPI,290.99,13,Saturday,4,337.79,12,3,Food
+Annapurna,UPI,124.17,22,Monday,3,158.35,14,1,Food
+Suresh,UPI,484.94,19,Friday,5,667.11,11,3,Food
+Travel Agency,CARD,1356.53,21,Wednesday,3,1062.27,5,36,Travel
+Reliance Smart,CARD,581.12,21,Thursday,2,538.07,10,6,Groceries
+Ananya Stores,UPI,466.09,18,Saturday,3,352.31,6,17,Groceries
+Flipkart,UPI,1275.43,10,Monday,2,819.3,19,8,Shopping
+Game Store,CARD,130.8,14,Wednesday,1,138.11,9,28,Entertainment
+Local Pharmacy,CARD,126.2,17,Sunday,1,94.36,4,3,Healthcare
+Sai Restaurant,UPI,1154.86,20,Tuesday,2,911.97,8,12,Food
+Apollo,UPI,7268.12,10,Monday,3,3717.49,5,37,Healthcare
+Cab Service,UPI,47.68,13,Friday,4,56.59,12,8,Transport
+Rapido,UPI,340.3,18,Thursday,4,380.87,2,5,Transport
+Local Mart,CARD,1558.49,8,Sunday,1,1434.63,9,5,Groceries
+Neha,NETBANKING,5104.22,19,Sunday,5,5568.47,5,1,Transfer
+Training Center,CARD,1013.33,14,Wednesday,3,2240.99,2,17,Education
+Electricity Office,CARD,762.26,14,Sunday,1,488.51,2,6,Bills
+Green Bites,UPI,477.13,12,Sunday,7,325.51,30,2,Food
+Local Cafe,UPI,127.02,12,Friday,3,90.49,9,3,Food
+Apollo,CARD,115.49,13,Monday,1,270.1,4,53,Healthcare
+Game Store,CASH,135.84,18,Monday,2,264.88,10,1,Entertainment
+Property Manager,UPI,10250.68,18,Saturday,1,9374.18,5,20,Rent
+Kumar Cafe,UPI,1256.24,21,Friday,6,1328.56,28,0,Food
+Campus Canteen,UPI,833.14,8,Sunday,3,1484.5,7,1,Food
+Water Board,CARD,4583.21,12,Monday,1,4120.7,4,55,Bills
+Local Store,CASH,1502.34,15,Monday,1,1720.94,7,2,Shopping
+Netflix,CARD,107.76,22,Friday,1,124.82,4,96,Subscriptions
+Ola Cabs,CASH,1249.51,22,Friday,1,1522.59,6,3,Transport
+Internet Services,NETBANKING,4426.15,17,Saturday,1,2567.64,15,12,Bills
+Priya Foods,UPI,418.45,8,Wednesday,6,762.47,23,0,Food
+Game Store,UPI,102.41,20,Monday,3,83.44,15,6,Entertainment
+Myntra,NETBANKING,734.29,12,Sunday,2,715.91,4,2,Shopping
+Cab Service,CARD,68.21,22,Sunday,6,52.02,27,7,Transport
+Metro Cab,UPI,1985.2,7,Wednesday,5,1538.34,28,1,Transport
+Clinic,UPI,2618.71,14,Monday,1,3311.49,3,38,Healthcare
+Sai Restaurant,UPI,124.46,8,Monday,5,115.5,39,2,Food
+Game Store,CARD,1349.19,12,Saturday,2,2428.42,4,22,Entertainment
+Medical Store,UPI,2511.26,10,Friday,2,2580.73,2,55,Healthcare
+Power Services,UPI,390.15,11,Sunday,1,493.95,17,68,Bills
+Power Services,CASH,408.21,20,Friday,1,450.55,3,18,Bills
+Online Course,UPI,2383.24,9,Wednesday,1,1119.71,4,135,Education
+Airtel,UPI,683.07,20,Friday,2,644.74,6,16,Bills
+Fashion Point,CASH,8993.97,12,Thursday,2,5990.86,6,23,Shopping
+Hostel Rent,UPI,13159.35,8,Friday,1,8369.16,2,24,Rent
+Local Cafe,UPI,861.58,21,Thursday,7,960.36,19,1,Food
+Rakesh,UPI,149.23,21,Sunday,7,140.23,7,3,Food
+Annapurna,UPI,1295.79,13,Saturday,1,2205.78,23,0,Food
+Sai Restaurant,UPI,1098.91,7,Thursday,5,1546.38,60,4,Food
+Local Cafe,UPI,229.62,9,Tuesday,2,220.58,14,3,Food
+Health Care,CARD,2002.44,16,Saturday,1,3025.68,6,6,Healthcare
+Power Services,UPI,399.64,15,Thursday,1,243.67,1,1,Bills
+Water Board,CASH,3094.97,17,Monday,1,1945.09,8,48,Bills
+Green Bites,CARD,792.79,20,Tuesday,1,926.77,25,0,Food
+Maa Grocery,CASH,312.01,17,Wednesday,3,366.62,7,1,Groceries
+Game Store,CARD,373.69,14,Thursday,4,305.24,5,6,Entertainment
+BSNL,UPI,1312.3,16,Saturday,1,1042.47,5,10,Bills
+Rakesh,UPI,1018.41,7,Sunday,4,1080.97,22,7,Food
+Annapurna,UPI,131.79,13,Saturday,5,87.03,28,10,Food
+City Bus,UPI,56.25,9,Friday,4,54.83,18,1,Transport
+Kumar Cafe,UPI,336.85,12,Thursday,3,334.99,5,1,Food
+Fresh Basket,CARD,388.07,17,Sunday,1,388.82,5,1,Groceries
+Myntra,CARD,3237.69,12,Thursday,1,3589.34,11,6,Shopping
+Local Pharmacy,UPI,1486.87,9,Tuesday,1,1614.11,12,29,Healthcare
+City Hospital,CARD,297.41,11,Sunday,5,365.74,2,17,Healthcare
+Suresh,CARD,134.66,8,Saturday,5,119.8,27,2,Food
+Sai Restaurant,UPI,232.69,13,Wednesday,4,274.82,9,1,Food
+Local Cafe,CARD,98.03,7,Monday,5,81.3,18,2,Food
+Electro World,CARD,1558.07,17,Friday,3,1283.24,8,3,Shopping
+Campus Canteen,UPI,1392.92,20,Monday,3,1747.27,7,2,Food
+Software Service,NETBANKING,216.7,22,Tuesday,2,196.13,4,27,Subscriptions
+City Hospital,CARD,363.25,9,Saturday,1,382.74,3,1,Healthcare
+Online Course,NETBANKING,598.0,8,Monday,2,726.16,6,20,Education
+Metro Cab,UPI,1654.57,17,Sunday,5,1295.6,23,7,Transport
+Room Owner,UPI,10757.52,12,Tuesday,3,7695.69,6,20,Rent
+City Mart,UPI,1318.28,11,Friday,3,906.94,9,1,Groceries
+Priya Sharma,UPI,4076.26,17,Thursday,5,3585.3,2,7,Transfer
+IRCTC,CASH,13159.23,10,Sunday,1,24010.87,5,34,Travel
+Amazon Prime,CARD,379.01,8,Saturday,1,423.57,4,44,Subscriptions
+Clinic,NETBANKING,125.74,12,Saturday,1,130.8,11,23,Healthcare
+Daily Needs,CARD,289.99,11,Saturday,1,406.93,8,1,Groceries
+Metro Cab,UPI,1573.45,19,Saturday,3,1414.15,31,5,Transport
+Metro Cab,UPI,137.0,17,Sunday,1,104.77,20,1,Transport
+Kiran,CARD,297.75,21,Wednesday,1,363.83,7,5,Transfer
+Fresh Point,CARD,1045.98,10,Saturday,2,634.34,11,0,Groceries
+Electricity Office,UPI,769.52,11,Wednesday,1,654.6,8,35,Bills
+Flipkart,UPI,1335.3,11,Thursday,1,1812.18,12,10,Shopping
+Local Pharmacy,UPI,317.22,15,Saturday,1,296.88,3,62,Healthcare
+Water Board,UPI,2521.9,12,Tuesday,2,2070.33,4,4,Bills
+BookMyShow,CARD,144.05,19,Thursday,2,139.9,5,32,Entertainment
+Rakesh,UPI,108.84,9,Tuesday,3,162.91,28,6,Food
+College Office,NETBANKING,441.24,13,Monday,1,557.89,7,111,Education
+Metro Cab,UPI,137.94,7,Friday,6,186.95,11,0,Transport
+Power Services,UPI,2267.75,11,Monday,1,1493.6,5,19,Bills
+Amazon,UPI,5729.77,18,Thursday,1,4880.98,10,3,Shopping
+Kumar Enterprises,CASH,4510.67,18,Thursday,2,4075.21,6,0,Shopping
+Electricity Office,NETBANKING,6054.52,18,Saturday,1,10779.48,4,17,Bills
+Airline,NETBANKING,601.86,6,Thursday,3,538.65,2,16,Travel
+BSNL,UPI,304.41,12,Tuesday,2,266.51,4,17,Bills
+Sai Restaurant,UPI,85.51,12,Saturday,5,81.36,10,4,Food
+Campus Canteen,UPI,470.01,13,Sunday,4,305.82,3,2,Food
+Internet Services,UPI,3253.27,15,Wednesday,1,3185.31,35,10,Bills
+Local Mart,CASH,2630.54,19,Monday,3,3935.71,4,6,Groceries
+Event Ticket,UPI,952.51,22,Thursday,1,1504.63,12,9,Entertainment
+Annapurna,CARD,889.64,9,Monday,5,719.71,12,10,Food
+Daily Needs,UPI,914.49,19,Tuesday,2,1483.53,6,3,Groceries
+PVR,UPI,116.91,14,Sunday,1,134.1,26,18,Entertainment
+Power Services,CARD,2669.48,14,Saturday,2,2017.19,1,43,Bills
+Metro Cab,UPI,2475.8,17,Tuesday,1,4071.21,26,2,Transport
+Metro Cab,UPI,955.26,18,Friday,4,1269.83,27,4,Transport
+Rahul Kumar,CARD,132.02,21,Sunday,3,173.2,2,5,Food
+Health Care,UPI,9348.22,9,Friday,4,9242.57,8,82,Healthcare
+Cab Service,CASH,93.92,9,Monday,1,89.44,17,3,Transport
+Internet Services,UPI,2668.26,14,Sunday,1,3316.35,3,7,Bills
+Flipkart,UPI,702.3,11,Saturday,1,459.45,3,12,Shopping
+Priya Foods,CARD,1060.89,22,Wednesday,3,937.01,9,13,Food
+Electro World,UPI,1043.64,16,Friday,2,419.24,5,0,Shopping
+Electro World,UPI,259.56,12,Saturday,2,149.77,10,9,Shopping
+Ola Cabs,UPI,132.07,18,Sunday,5,70.78,22,0,Transport
+Flipkart,UPI,274.96,20,Saturday,1,375.83,4,15,Shopping
+Daily Needs,UPI,908.57,12,Thursday,1,619.59,16,9,Groceries
+Priya Foods,UPI,624.74,8,Friday,4,436.67,12,2,Food
+Local Store,CARD,1139.96,17,Saturday,2,726.7,2,2,Shopping
+Movie Zone,UPI,571.74,22,Wednesday,1,367.37,7,0,Entertainment
+Campus Canteen,UPI,998.98,21,Monday,5,788.08,8,4,Food
+PVR,UPI,251.6,20,Friday,1,415.24,11,4,Entertainment
+Auto Driver,UPI,670.64,7,Thursday,4,574.52,15,1,Transport
+PVR,CARD,1031.43,18,Saturday,3,1340.08,5,1,Entertainment
+Fashion Point,CARD,1201.4,17,Monday,1,1200.97,4,12,Shopping
+Internet Services,UPI,611.56,10,Monday,1,673.08,4,13,Bills
+Priya Foods,UPI,137.3,8,Thursday,2,67.29,12,2,Food
+Electricity Office,NETBANKING,4483.89,9,Monday,1,4292.95,6,11,Bills
+Training Center,UPI,18828.0,13,Thursday,1,24456.36,4,23,Education
+Flipkart,NETBANKING,793.54,18,Saturday,2,1592.96,5,7,Shopping
+Myntra,CARD,616.27,16,Thursday,1,582.03,3,3,Shopping
+Priya Foods,UPI,694.41,19,Tuesday,3,980.66,17,5,Food
+Power Services,CARD,2201.12,16,Tuesday,1,2555.72,4,5,Bills
+Friend,UPI,3043.16,20,Wednesday,1,3415.74,11,26,Transfer
+Software Service,NETBANKING,732.29,18,Friday,1,847.89,6,10,Subscriptions
+Amazon,UPI,1510.43,10,Sunday,1,1996.65,2,18,Shopping
+Rahul Kumar,UPI,576.64,8,Thursday,2,591.82,7,1,Food
+Local Cafe,UPI,333.73,21,Thursday,5,336.07,7,2,Food
+Clinic,CASH,110.8,18,Sunday,1,127.09,5,53,Healthcare
+Electro World,CARD,1119.09,20,Monday,2,896.75,5,9,Shopping
+Training Center,NETBANKING,9332.3,13,Saturday,1,5772.48,7,60,Education
+Cab Service,CASH,99.41,7,Sunday,3,152.81,9,1,Transport
+Suresh,UPI,142.9,14,Friday,3,119.7,18,2,Food
+Ola Cabs,UPI,266.34,8,Sunday,4,238.27,5,1,Transport
+Priya Foods,UPI,442.74,9,Saturday,6,433.68,57,2,Food
+MakeMyTrip,UPI,1596.82,17,Wednesday,2,2077.88,6,163,Travel
+City Mart,UPI,2270.06,19,Saturday,2,2039.42,6,8,Groceries
+Landlord,UPI,10921.57,18,Sunday,1,6319.86,2,6,Rent
+Daily Needs,CARD,2748.14,11,Thursday,1,3392.57,5,1,Groceries
+Local Store,CARD,707.16,19,Monday,1,1213.76,7,2,Shopping
+Property Manager,NETBANKING,29191.81,9,Monday,1,14164.48,2,48,Rent
+Jio,UPI,2140.94,9,Wednesday,3,1818.48,2,2,Bills
+Movie Zone,CARD,558.93,22,Friday,3,399.02,4,5,Entertainment
+Amazon,UPI,1526.64,12,Thursday,2,1666.5,3,6,Shopping
+Power Services,UPI,394.09,14,Friday,2,519.88,2,74,Bills
+Maa Grocery,UPI,298.96,8,Sunday,3,460.3,20,2,Groceries
+College Office,UPI,7031.12,10,Tuesday,2,5614.61,6,73,Education
+Ola Cabs,UPI,585.81,8,Tuesday,4,533.43,22,5,Transport
+Suresh,CARD,529.13,7,Friday,7,808.33,15,1,Food
+City Bus,CARD,1741.6,20,Sunday,3,1827.54,49,1,Transport
+City Bus,CASH,1453.7,18,Sunday,2,1622.14,6,1,Transport
+Rahul Kumar,CASH,612.61,20,Thursday,3,735.22,10,2,Food
+Auto Driver,UPI,53.24,18,Wednesday,6,81.11,11,7,Transport
+Rajesh,NETBANKING,5522.64,18,Tuesday,1,4601.07,3,58,Rent
+Campus Canteen,UPI,1385.79,14,Tuesday,4,1293.15,17,2,Food
+Training Center,CASH,4922.33,17,Tuesday,1,5007.34,3,34,Education
+YouTube,NETBANKING,1772.32,21,Friday,2,1309.2,2,14,Subscriptions
+Priya Foods,UPI,637.7,22,Tuesday,2,535.36,11,2,Food
+Ananya Stores,UPI,150.61,8,Friday,2,244.4,7,4,Groceries
+Online Course,UPI,352.24,19,Monday,1,393.15,4,33,Education
+Local Store,CASH,214.92,19,Wednesday,3,239.45,4,4,Shopping
+Medical Store,CASH,7161.59,9,Friday,1,12264.02,10,22,Healthcare
+Fashion Point,CARD,843.23,19,Sunday,1,788.24,6,0,Shopping
+Exam Cell,UPI,4916.94,14,Sunday,2,7966.91,12,3,Education
+Medical Store,UPI,151.61,12,Thursday,1,102.33,5,29,Healthcare
+Fresh Basket,CASH,648.12,12,Wednesday,3,768.8,11,1,Groceries
+Priya Sharma,CASH,570.37,17,Friday,1,374.29,4,2,Transfer
+Electricity Office,CARD,867.7,10,Tuesday,1,750.76,11,57,Bills
+Sai Restaurant,UPI,595.38,12,Sunday,7,557.22,60,0,Food
+Local Mart,UPI,617.61,8,Tuesday,1,553.27,13,6,Groceries
+Daily Needs,CASH,632.54,18,Thursday,1,579.1,13,1,Groceries
+Cab Service,UPI,1912.36,19,Thursday,1,1564.33,26,2,Transport
+Campus Canteen,UPI,139.73,14,Thursday,5,132.2,7,2,Food
+Hotel,NETBANKING,13243.27,20,Tuesday,1,15934.8,5,2,Travel
+Flipkart,UPI,699.91,20,Tuesday,1,623.99,6,3,Shopping
+Local Cafe,CARD,177.31,13,Monday,5,127.88,6,1,Food
+Book Store,CARD,5283.8,13,Monday,1,6073.53,3,14,Education
+Hostel Rent,NETBANKING,5031.29,21,Friday,1,4379.41,8,3,Rent
+Spotify,NETBANKING,867.84,2,Saturday,2,456.0,3,15,Subscriptions
+College Office,CASH,1861.28,19,Tuesday,1,2084.39,2,30,Education
+PVR,CARD,660.0,21,Wednesday,1,449.18,12,13,Entertainment
+Rakesh,NETBANKING,180.07,12,Tuesday,5,149.21,9,1,Food
+Electricity Office,UPI,415.93,11,Saturday,4,291.08,9,17,Bills
+Netflix,CARD,128.08,1,Friday,1,68.75,13,8,Subscriptions
+Kumar Cafe,UPI,359.78,13,Tuesday,3,328.53,23,4,Food
+Clinic,CASH,3305.87,9,Tuesday,1,3305.22,4,8,Healthcare
+Amazon,UPI,1691.36,15,Tuesday,3,2520.91,6,10,Shopping
+Property Manager,NETBANKING,22297.83,19,Thursday,2,10425.14,2,0,Rent
+Annapurna,UPI,722.82,22,Friday,3,457.91,30,1,Food
+Priya Foods,CARD,430.84,14,Saturday,3,674.27,10,3,Food
+Myntra,CARD,8294.45,21,Saturday,2,7125.05,10,17,Shopping
+Annapurna,UPI,250.81,7,Saturday,4,159.0,11,3,Food
+Priya Foods,UPI,1029.15,7,Tuesday,3,1450.79,4,1,Food
+City Bus,CASH,247.53,10,Saturday,6,242.43,15,0,Transport
+Online Course,NETBANKING,599.14,17,Wednesday,1,503.91,7,22,Education
+Health Care,UPI,3080.92,14,Thursday,1,2367.17,2,8,Healthcare
+Metro Cab,CASH,224.08,18,Wednesday,3,178.51,15,1,Transport
+Local Mart,UPI,369.02,10,Monday,2,371.57,5,5,Groceries
+Daily Needs,UPI,234.95,20,Friday,2,261.06,15,2,Groceries
+Gaming Cafe,CARD,519.27,20,Thursday,3,1151.95,6,1,Entertainment
+Local Pharmacy,NETBANKING,163.99,9,Monday,1,107.92,9,37,Healthcare
+Priya Sharma,UPI,23872.51,15,Thursday,1,26711.49,11,7,Transfer
+Health Care,CARD,133.83,8,Monday,1,137.88,8,6,Healthcare
+Daily Needs,UPI,352.71,21,Saturday,4,229.31,4,2,Groceries
+Priya Foods,UPI,1086.68,22,Thursday,1,743.28,32,3,Food
+Myntra,CARD,7553.14,18,Friday,3,7573.62,1,23,Shopping
+Jio,UPI,1563.98,20,Tuesday,1,1656.31,3,38,Bills
+City Mart,UPI,1139.5,17,Saturday,2,1753.73,11,2,Groceries
+Sai Restaurant,UPI,192.33,8,Sunday,3,229.21,13,1,Food
+Ola Cabs,CASH,52.88,17,Thursday,4,68.31,8,15,Transport
+Ananya Stores,UPI,195.19,11,Tuesday,5,137.34,4,2,Groceries
+Game Store,CARD,2597.05,20,Wednesday,1,2549.1,2,1,Entertainment
+Annapurna,UPI,738.74,19,Thursday,5,1057.35,7,6,Food
+Maa Grocery,UPI,3384.42,12,Wednesday,4,2787.88,2,0,Groceries
+Rajesh,UPI,7527.49,18,Sunday,1,8077.1,4,22,Rent
+Priya Sharma,NETBANKING,14537.18,15,Friday,1,9729.54,4,31,Transfer
+Green Bites,NETBANKING,785.32,20,Saturday,4,672.44,24,1,Food
+Landlord,NETBANKING,25809.34,12,Wednesday,1,18800.03,3,33,Rent
+Flipkart,UPI,2731.0,15,Thursday,1,2279.35,11,7,Shopping
+Friend,UPI,268.02,15,Wednesday,1,284.75,2,5,Transfer
+Clinic,UPI,885.02,8,Monday,4,1139.15,10,29,Healthcare
+Kumar Cafe,UPI,198.35,19,Saturday,2,308.93,21,1,Food
+Apollo,CARD,1402.98,17,Friday,1,2264.13,4,11,Healthcare
+Fresh Basket,UPI,666.41,20,Tuesday,2,840.23,18,6,Groceries
+Metro Cab,UPI,762.62,7,Thursday,3,990.39,13,5,Transport
+Cab Service,UPI,110.52,8,Sunday,6,167.97,17,6,Transport
+Uber,UPI,60.06,20,Friday,3,40.0,9,1,Transport
+Local Cafe,CARD,334.38,20,Tuesday,3,208.23,14,0,Food
+City Bus,CASH,90.32,7,Wednesday,4,112.0,32,1,Transport
+University Fees,UPI,4299.79,9,Monday,1,5148.23,6,11,Education
+Suresh,NETBANKING,373.48,19,Thursday,6,295.1,9,2,Food
+Rakesh,UPI,519.15,21,Friday,4,347.38,13,1,Food
+Cab Service,UPI,210.99,22,Tuesday,4,216.23,20,3,Transport
+Local Cafe,UPI,548.87,19,Tuesday,5,690.21,19,9,Food
+Reliance Smart,UPI,174.76,10,Tuesday,2,173.67,7,6,Groceries
+Training Center,UPI,19247.85,12,Monday,1,18073.02,5,11,Education
+Rahul Kumar,CASH,237.93,22,Friday,2,246.47,6,7,Food
+Myntra,CARD,502.04,15,Wednesday,1,386.3,4,2,Shopping
+Travel Agency,CARD,6629.67,14,Friday,1,8656.47,3,100,Travel
+Local Mart,CASH,1351.32,11,Monday,3,2051.91,7,3,Groceries
+Water Board,UPI,2944.76,15,Wednesday,1,2015.09,2,4,Bills
+Friend,UPI,232.29,20,Friday,3,395.67,9,7,Transfer
+Rakesh,UPI,456.43,14,Tuesday,6,386.09,12,5,Food
+Power Services,UPI,3543.49,17,Tuesday,1,2240.14,3,8,Bills
+Ola Cabs,UPI,59.26,22,Friday,7,62.87,14,2,Transport
+Electricity Office,UPI,822.58,10,Wednesday,1,600.43,4,7,Bills
+Maa Grocery,UPI,1256.42,18,Friday,1,869.45,7,2,Groceries
+City Mart,CARD,454.99,8,Monday,5,456.14,14,1,Groceries
+Maa Grocery,UPI,280.13,17,Saturday,5,193.65,6,1,Groceries
+Maa Grocery,CARD,2658.54,18,Sunday,2,6258.06,19,1,Groceries
+Ravi,UPI,12697.03,12,Monday,1,14124.64,4,9,Transfer
+Gaming Cafe,CARD,254.43,14,Tuesday,1,255.07,4,1,Entertainment
+Fresh Basket,UPI,235.35,8,Wednesday,6,192.32,8,3,Groceries
+Metro Cab,UPI,166.85,13,Friday,4,172.24,21,9,Transport
+Flipkart,UPI,11609.95,12,Tuesday,2,13663.31,11,7,Shopping
+Annapurna,UPI,132.48,7,Monday,6,119.58,9,3,Food
+Rajesh,UPI,28648.29,12,Tuesday,3,29996.76,2,101,Rent
+Water Board,NETBANKING,1327.09,20,Sunday,1,679.2,10,6,Bills
+Book Store,UPI,13625.1,14,Saturday,2,20726.14,4,139,Education
+Campus Canteen,CARD,1288.99,14,Sunday,4,808.27,5,0,Food
+Clinic,UPI,2235.31,17,Monday,1,2085.37,3,54,Healthcare
+Electro World,CARD,1557.04,10,Wednesday,3,1528.45,13,5,Shopping
+City Mart,CARD,3341.59,10,Saturday,2,5576.48,13,1,Groceries
+Maa Grocery,UPI,194.49,10,Tuesday,2,374.78,6,5,Groceries
+City Bus,UPI,481.14,19,Tuesday,5,375.87,27,5,Transport
+Reliance Smart,CARD,668.4,10,Wednesday,1,1335.19,5,2,Groceries
+Suresh,UPI,419.59,13,Tuesday,3,402.19,15,3,Food
+Clinic,UPI,8942.77,10,Saturday,1,10938.48,2,15,Healthcare
+Medical Store,UPI,893.26,14,Friday,2,961.28,8,48,Healthcare
+Event Ticket,UPI,2561.16,17,Sunday,1,1577.78,5,3,Entertainment
+Jio,NETBANKING,7364.21,10,Saturday,1,12077.75,7,8,Bills
+Internet Services,UPI,839.8,20,Sunday,3,468.35,3,12,Bills
+Local Pharmacy,NETBANKING,1236.74,15,Saturday,1,1581.76,9,62,Healthcare
+Sai Restaurant,UPI,1125.91,12,Friday,4,2000.24,9,2,Food
+Online Course,UPI,4360.3,19,Thursday,1,5910.94,6,68,Education
+City Bus,UPI,348.91,19,Tuesday,3,339.9,13,2,Transport
+Suresh,UPI,285.4,22,Saturday,3,384.09,33,0,Food
+Priya Sharma,UPI,888.07,9,Tuesday,2,550.19,4,2,Transfer
+Rakesh,NETBANKING,207.88,20,Sunday,4,98.86,12,1,Food
+MakeMyTrip,UPI,11325.34,20,Thursday,1,14601.92,6,4,Travel
+Reliance Smart,UPI,2178.39,18,Sunday,3,2075.76,8,1,Groceries
+Kumar Enterprises,CARD,369.36,11,Tuesday,2,590.01,12,1,Shopping
+Event Ticket,CARD,112.44,14,Thursday,2,97.22,3,7,Entertainment
+Local Store,CARD,203.21,12,Friday,3,168.1,13,5,Shopping
+Online Course,UPI,362.58,18,Wednesday,1,410.21,14,14,Education
+Jio,UPI,7605.6,17,Thursday,3,12349.34,4,39,Bills
+Rakesh,UPI,111.37,9,Sunday,4,83.11,20,1,Food
+Local Cafe,CARD,1269.92,14,Thursday,5,2067.71,12,2,Food
+Fresh Point,CARD,845.44,12,Saturday,3,1559.73,17,2,Groceries
+Metro Cab,NETBANKING,1544.45,20,Wednesday,4,877.57,27,6,Transport
+Local Cafe,CARD,107.06,20,Monday,4,117.19,16,5,Food
+Daily Needs,UPI,2496.88,20,Tuesday,2,3288.24,7,2,Groceries
+Rajesh,UPI,14266.04,11,Sunday,2,12375.7,2,66,Rent
+Cab Service,NETBANKING,54.12,17,Wednesday,5,48.46,15,8,Transport
+Neha,UPI,3404.5,9,Monday,1,3579.61,2,13,Transfer
+Fresh Basket,CARD,476.17,11,Monday,1,671.77,5,3,Groceries
+City Mart,UPI,547.67,20,Sunday,2,659.57,8,5,Groceries
+Suresh,CARD,1314.56,9,Thursday,3,1396.37,12,3,Food
+Reliance Smart,NETBANKING,1300.72,19,Monday,2,1600.07,4,8,Groceries
+Fresh Basket,CARD,352.07,17,Friday,5,417.67,5,2,Groceries
+City Bus,UPI,186.99,7,Monday,5,312.75,10,3,Transport
+Rakesh,CARD,152.98,14,Saturday,4,174.7,6,1,Food
+Suresh,UPI,359.05,22,Friday,4,582.8,11,3,Food
+Medical Store,UPI,2135.95,10,Wednesday,1,3534.88,4,20,Healthcare
+Kumar Enterprises,CARD,1430.02,21,Saturday,2,1793.01,10,22,Shopping
+YouTube,UPI,510.75,18,Wednesday,1,490.49,6,39,Subscriptions
+PVR,CARD,179.42,18,Wednesday,7,198.25,5,5,Entertainment
+Flipkart,CARD,345.26,15,Friday,1,317.7,5,15,Shopping
+Power Services,CARD,1859.6,9,Thursday,1,1742.65,12,37,Bills
+Flipkart,CARD,1944.62,17,Thursday,1,1546.62,7,17,Shopping
+Friend,NETBANKING,625.91,12,Wednesday,1,660.02,5,19,Transfer
+Annapurna,CARD,186.14,14,Friday,3,279.97,15,0,Food
+Local Cafe,CARD,1098.54,21,Thursday,3,1986.34,8,2,Food
+Rakesh,UPI,670.73,13,Saturday,3,572.71,13,3,Food
+Book Store,UPI,1373.14,16,Sunday,1,2114.26,2,16,Education
+Electro World,NETBANKING,7408.73,15,Friday,2,6996.48,5,5,Shopping
+Gaming Cafe,CARD,668.45,17,Saturday,2,584.01,4,18,Entertainment
+Local Store,CARD,2932.83,16,Friday,1,2407.8,3,8,Shopping
+Game Store,UPI,929.84,17,Sunday,2,1375.06,5,21,Entertainment
+Suresh,UPI,83.3,19,Monday,4,73.9,5,1,Food
+Health Care,UPI,1687.28,10,Tuesday,1,1747.47,2,1,Healthcare
+Apollo,UPI,2765.9,9,Tuesday,3,3413.12,2,4,Healthcare
+IRCTC,UPI,19058.91,13,Friday,2,6368.53,4,2,Travel
+City Bus,UPI,101.18,20,Monday,6,86.23,15,1,Transport
+Cab Service,UPI,119.44,21,Sunday,3,160.6,28,3,Transport
+Local Cafe,UPI,729.03,13,Sunday,4,374.23,13,5,Food
+City Bus,UPI,539.54,9,Friday,4,547.95,10,0,Transport
+Kumar Enterprises,UPI,435.56,20,Thursday,2,612.23,5,10,Shopping
+Rapido,UPI,321.91,10,Sunday,3,170.18,26,9,Transport
+Ola Cabs,CASH,586.64,19,Wednesday,5,512.53,9,3,Transport
+Rahul Kumar,UPI,369.28,12,Monday,7,185.97,11,1,Food
+Arjun,UPI,12451.87,20,Tuesday,1,12687.15,2,10,Transfer
+Online Course,UPI,968.3,19,Friday,1,1077.06,2,169,Education
+City Hospital,UPI,1241.65,15,Saturday,1,1808.75,4,148,Healthcare
+Ananya Stores,UPI,203.36,12,Friday,1,134.25,20,5,Groceries
+BookMyShow,CARD,690.64,17,Saturday,1,1395.05,3,19,Entertainment
+Clinic,UPI,156.14,15,Tuesday,1,147.92,2,16,Healthcare
+Sai Restaurant,UPI,735.76,9,Sunday,4,728.41,12,0,Food
+Family Account,UPI,1525.0,10,Tuesday,1,1176.01,7,20,Transfer
+Campus Canteen,UPI,108.13,19,Friday,5,120.96,23,1,Food
+Amazon Prime,NETBANKING,109.36,18,Sunday,1,119.88,5,29,Subscriptions
+Local Mart,UPI,783.74,17,Sunday,1,1370.65,9,1,Groceries
+City Mart,UPI,2922.85,8,Tuesday,1,4430.36,10,2,Groceries
+Rahul Kumar,CASH,102.33,20,Tuesday,5,123.26,6,1,Food
+Rahul Kumar,CARD,1116.15,20,Monday,4,1298.71,6,1,Food
+Airtel,UPI,741.8,18,Tuesday,2,588.21,5,23,Bills
+Rapido,CARD,187.88,9,Friday,5,116.63,32,1,Transport
+Rakesh,UPI,228.32,19,Sunday,3,239.05,60,0,Food
+Internet Services,CARD,1094.03,15,Monday,1,814.88,11,1,Bills
+Health Care,UPI,2756.97,10,Friday,1,2036.13,1,11,Healthcare
+Travel Agency,NETBANKING,2779.06,16,Sunday,1,3466.97,3,36,Travel
+Rahul Kumar,UPI,513.23,14,Sunday,3,522.63,8,1,Food
+Fresh Basket,UPI,1252.05,8,Tuesday,2,2332.84,18,4,Groceries
+Airtel,UPI,736.39,10,Monday,1,544.86,8,1,Bills
+Reliance Smart,UPI,294.64,17,Monday,4,152.7,4,12,Groceries
+Arjun,UPI,8589.85,19,Thursday,3,6558.61,5,36,Transfer
+Book Store,UPI,8700.31,16,Saturday,1,8321.31,4,92,Education
+Green Bites,UPI,166.51,12,Saturday,2,153.63,7,5,Food
+Campus Canteen,UPI,139.85,19,Friday,3,72.97,16,1,Food
+Room Owner,CASH,17225.68,9,Sunday,1,19714.35,3,19,Rent
+Landlord,NETBANKING,10703.29,20,Wednesday,1,9711.34,5,2,Rent
+MakeMyTrip,NETBANKING,15256.02,6,Sunday,1,10060.82,2,20,Travel
+Electricity Office,UPI,397.73,12,Sunday,1,181.41,2,64,Bills
+Event Ticket,CARD,220.55,21,Friday,1,212.35,5,15,Entertainment
+IRCTC,NETBANKING,4204.71,11,Saturday,2,2760.09,2,8,Travel
+Neha,UPI,21374.67,15,Wednesday,1,26669.4,6,5,Transfer
+Amazon,UPI,10300.19,19,Sunday,2,6443.61,6,0,Shopping
+Local Cafe,UPI,344.39,13,Wednesday,2,449.3,7,2,Food
+Spotify,UPI,966.77,23,Saturday,1,912.63,2,30,Subscriptions
+City Hospital,UPI,162.93,18,Monday,1,163.93,2,16,Healthcare
+Electro World,CARD,10777.51,12,Wednesday,1,14318.86,6,14,Shopping
+Amazon,NETBANKING,3448.5,10,Monday,1,2912.41,5,19,Shopping
+Campus Canteen,UPI,131.27,19,Monday,4,383.72,5,3,Food
+Electricity Office,NETBANKING,366.68,11,Saturday,1,384.09,4,19,Bills
+Ananya Stores,UPI,174.03,18,Sunday,1,200.02,2,3,Groceries
+Campus Canteen,UPI,89.69,19,Saturday,4,116.93,10,1,Food
+Medical Store,UPI,2305.57,17,Tuesday,2,2447.47,2,14,Healthcare
+Green Bites,CARD,521.43,21,Thursday,2,910.46,15,2,Food
+Sai Restaurant,UPI,266.24,8,Wednesday,5,288.63,26,2,Food
+Sai Restaurant,UPI,664.86,9,Sunday,6,565.53,12,1,Food
+Local Pharmacy,CARD,5404.13,8,Tuesday,1,6257.75,1,4,Healthcare
+Daily Needs,UPI,583.59,21,Tuesday,3,493.75,6,2,Groceries
+Amazon,CARD,8163.21,12,Sunday,2,9902.51,1,2,Shopping
+Annapurna,NETBANKING,1132.32,7,Friday,5,1136.84,9,1,Food
+Rahul Kumar,CARD,98.89,22,Monday,2,82.17,13,4,Food
+City Bus,UPI,74.29,17,Thursday,5,94.48,11,1,Transport
+Metro Cab,UPI,113.27,17,Sunday,1,98.56,15,4,Transport
+BookMyShow,CARD,1740.19,15,Sunday,2,1697.91,2,4,Entertainment
+Green Bites,UPI,197.85,8,Tuesday,4,178.17,19,0,Food
+Annapurna,CARD,565.5,7,Tuesday,6,566.83,7,3,Food
+Reliance Smart,UPI,647.1,11,Monday,1,561.99,5,0,Groceries
+City Bus,UPI,398.43,20,Wednesday,6,690.56,39,2,Transport
+City Mart,UPI,1056.46,19,Sunday,1,1137.3,4,1,Groceries
+Water Board,UPI,4276.36,15,Friday,2,3788.24,2,4,Bills
+Water Board,UPI,354.63,17,Sunday,2,480.53,5,26,Bills
+Auto Driver,CARD,355.59,7,Monday,3,440.24,14,8,Transport
+Amazon Prime,UPI,100.3,2,Monday,1,111.43,2,12,Subscriptions
+Rajesh,NETBANKING,23596.33,8,Tuesday,1,25022.34,7,16,Rent
+Movie Zone,CARD,1614.51,18,Friday,1,1271.18,16,3,Entertainment
+Kumar Cafe,UPI,98.19,8,Sunday,3,118.86,24,1,Food
+Flipkart,CARD,4579.58,21,Thursday,1,4383.47,4,3,Shopping
+Reliance Smart,UPI,307.4,21,Tuesday,1,151.87,4,1,Groceries
+BSNL,UPI,3945.82,10,Wednesday,1,3838.69,5,25,Bills
+Cab Service,CARD,81.19,18,Thursday,5,80.82,11,1,Transport
+PVR,CARD,291.52,12,Saturday,2,363.36,7,16,Entertainment
+Gaming Cafe,UPI,195.94,18,Saturday,3,169.79,2,6,Entertainment
+College Office,UPI,738.34,15,Friday,1,674.57,1,8,Education
+Fresh Basket,CARD,168.46,18,Tuesday,5,273.64,11,7,Groceries
+Fresh Basket,UPI,921.68,10,Thursday,3,715.54,8,5,Groceries
+Campus Canteen,UPI,206.42,22,Wednesday,3,82.39,11,3,Food
+Kumar Enterprises,CARD,8598.33,10,Monday,2,10346.99,4,7,Shopping
+City Mart,CARD,3027.29,21,Tuesday,3,1577.55,9,4,Groceries
+Health Care,CARD,4742.97,14,Monday,1,5084.05,2,1,Healthcare
+Flipkart,CARD,246.19,10,Friday,1,190.3,12,10,Shopping
+Fresh Basket,CASH,415.25,10,Monday,3,320.07,6,1,Groceries
+Fresh Point,UPI,1087.49,11,Wednesday,1,1455.01,6,0,Groceries
+Local Mart,CARD,380.79,21,Sunday,1,391.46,6,4,Groceries
+Apollo,UPI,112.31,8,Tuesday,1,160.63,7,122,Healthcare
+Suresh,UPI,522.9,13,Monday,3,1146.0,3,8,Food
+Green Bites,UPI,170.47,13,Saturday,4,289.79,25,0,Food
+Fresh Basket,UPI,1627.24,8,Sunday,4,2544.76,11,1,Groceries
+Auto Driver,UPI,131.53,13,Monday,2,134.01,13,3,Transport
+PVR,CARD,571.73,21,Thursday,2,575.81,3,4,Entertainment
+Training Center,NETBANKING,4157.53,12,Saturday,1,5175.48,3,17,Education
+Power Services,UPI,384.6,20,Tuesday,1,249.57,5,1,Bills
+Internet Services,UPI,335.63,16,Saturday,1,548.02,3,8,Bills
+University Fees,UPI,17159.17,19,Wednesday,1,15316.39,3,80,Education
+General Store,UPI,604.1,12,Thursday,1,840.2,15,4,Shopping
+Friend,UPI,10160.6,14,Sunday,1,6643.82,7,22,Transfer
+Game Store,CASH,2812.31,20,Monday,1,3273.66,7,6,Entertainment
+Green Bites,UPI,790.66,14,Thursday,6,417.68,21,0,Food
+Room Owner,NETBANKING,22915.63,9,Wednesday,1,21073.25,2,18,Rent
+Rahul Kumar,UPI,266.98,19,Monday,5,314.31,5,3,Food
+Flipkart,UPI,2029.14,21,Friday,1,1804.62,4,3,Shopping
+Fresh Point,CARD,159.53,17,Tuesday,3,84.53,5,3,Groceries
+Reliance Smart,UPI,180.84,17,Friday,4,184.97,40,4,Groceries
+Rapido,UPI,151.12,17,Thursday,2,141.06,13,1,Transport
+General Store,UPI,354.87,21,Wednesday,1,255.36,4,14,Shopping
+Local Cafe,UPI,542.07,7,Saturday,4,577.99,33,2,Food
+College Office,NETBANKING,5951.23,17,Tuesday,1,9912.76,5,8,Education
+Campus Canteen,CARD,391.77,7,Wednesday,3,464.28,10,4,Food
+Local Mart,UPI,156.65,8,Thursday,3,166.29,6,0,Groceries
+Suresh,UPI,489.91,13,Wednesday,1,461.36,4,4,Food
+Suresh,CARD,83.37,7,Tuesday,1,99.58,22,0,Food
+Book Store,UPI,3284.41,10,Friday,1,3893.63,7,10,Education
+Medical Store,UPI,379.19,13,Tuesday,1,331.53,5,40,Healthcare
+Annapurna,CARD,309.4,8,Sunday,5,329.19,18,0,Food
+Rakesh,UPI,491.11,8,Sunday,4,733.08,7,11,Food
+Sai Restaurant,UPI,287.23,19,Thursday,5,381.26,11,2,Food
+Rakesh,UPI,249.41,13,Sunday,1,358.67,11,2,Food
+Myntra,CARD,236.1,16,Sunday,4,242.67,5,31,Shopping
+Cloud Service,CARD,383.19,8,Monday,1,330.32,7,56,Subscriptions
+Priya Foods,CARD,689.11,13,Saturday,5,986.72,2,10,Food
+Rajesh,CARD,19240.79,9,Tuesday,1,30000.0,2,6,Rent
+Online Course,NETBANKING,13392.4,14,Sunday,2,21183.05,7,6,Education
+Bus Booking,CARD,25374.54,20,Thursday,1,29157.36,1,34,Travel
+Room Owner,NETBANKING,11160.25,11,Tuesday,1,13206.15,4,12,Rent
+Myntra,UPI,10403.96,16,Friday,2,8022.49,3,16,Shopping
+Suresh,UPI,970.84,9,Friday,4,1377.53,7,3,Food
+Rakesh,CARD,1144.5,9,Sunday,4,889.72,8,3,Food
+General Store,UPI,1783.3,10,Wednesday,5,2762.38,14,8,Shopping
+College Office,CARD,10028.59,13,Sunday,1,7102.05,3,24,Education
+Power Services,CARD,637.84,10,Thursday,3,409.36,3,3,Bills
+Amazon,CARD,3651.64,14,Sunday,1,5160.82,7,28,Shopping
+Suresh,NETBANKING,942.67,13,Thursday,3,1076.0,16,2,Food
+Online Course,CASH,10961.93,10,Wednesday,2,13173.42,2,27,Education
+City Mart,UPI,1462.21,12,Tuesday,2,2636.0,12,4,Groceries
+BookMyShow,UPI,2147.67,14,Friday,1,2081.02,7,5,Entertainment
+Water Board,CASH,2268.83,20,Sunday,2,1649.02,4,13,Bills
+Cab Service,UPI,118.95,13,Wednesday,4,310.3,25,1,Transport
+Event Ticket,CARD,146.05,12,Tuesday,1,170.17,3,5,Entertainment
+Family Account,UPI,711.13,9,Wednesday,1,1376.12,5,15,Transfer
+Fashion Point,CARD,1077.33,18,Wednesday,1,1306.81,8,8,Shopping
+BSNL,UPI,2942.43,20,Monday,3,2421.54,7,6,Bills
+City Mart,NETBANKING,747.16,18,Monday,5,546.36,30,3,Groceries
+Electro World,UPI,340.22,10,Sunday,2,299.15,4,20,Shopping
+Cab Service,CASH,328.17,18,Monday,2,301.66,23,1,Transport
+Priya Foods,UPI,242.48,9,Sunday,1,302.89,19,1,Food
+Priya Sharma,UPI,315.72,10,Friday,1,525.95,7,1,Transfer
+Internet Services,UPI,6066.59,18,Thursday,1,5315.17,9,50,Bills
+Internet Services,CARD,3393.82,11,Wednesday,1,2325.89,10,11,Bills
+Sai Restaurant,CARD,124.46,9,Tuesday,4,151.58,13,5,Food
+Online Course,UPI,7653.85,17,Saturday,2,3995.32,9,46,Education
+Annapurna,UPI,207.72,14,Tuesday,1,208.79,7,12,Food
+City Hospital,CARD,381.01,16,Wednesday,1,232.32,8,54,Healthcare
+Fresh Point,NETBANKING,153.43,11,Sunday,2,180.41,19,1,Groceries
+Annapurna,CARD,239.94,14,Monday,3,210.83,16,3,Food
+Online Course,CARD,7486.8,13,Sunday,1,8921.16,3,6,Education
+Rahul Kumar,NETBANKING,142.01,19,Thursday,2,222.04,17,6,Food
+Uber,UPI,172.53,20,Thursday,4,197.67,8,2,Transport
+Room Owner,NETBANKING,14647.31,8,Friday,1,14820.63,3,21,Rent
+Kumar Cafe,UPI,126.77,13,Wednesday,4,164.26,8,4,Food
+Priya Foods,UPI,356.6,8,Tuesday,4,226.83,9,0,Food
+Friend,UPI,11896.71,9,Monday,4,17308.91,4,4,Transfer
+Flipkart,UPI,2412.91,11,Friday,5,1537.64,6,5,Shopping
+Daily Needs,CARD,320.21,20,Wednesday,3,297.34,11,2,Groceries
+Sai Restaurant,UPI,380.89,8,Friday,3,710.74,10,2,Food
+Landlord,UPI,17879.78,18,Friday,2,17150.21,2,12,Rent
+Annapurna,CASH,108.24,7,Thursday,4,47.69,6,1,Food
+Fresh Basket,UPI,2907.18,21,Saturday,3,2441.28,6,9,Groceries
+Jio,CARD,2005.07,16,Wednesday,1,1982.18,7,8,Bills
+Fashion Point,UPI,508.26,10,Friday,1,894.09,12,29,Shopping
+YouTube,UPI,539.78,1,Saturday,1,695.97,6,4,Subscriptions
+Power Services,UPI,2408.74,9,Friday,2,3312.99,4,12,Bills
+Uber,UPI,522.06,18,Friday,4,486.56,53,2,Transport
+Local Cafe,UPI,322.55,14,Wednesday,5,281.61,7,3,Food
+Clinic,UPI,147.8,14,Thursday,1,252.16,5,31,Healthcare
+Kumar Cafe,UPI,1075.28,22,Sunday,4,1501.16,9,12,Food
+Neha,UPI,3334.81,8,Thursday,2,3854.66,5,7,Transfer
+Fashion Point,UPI,5780.73,18,Thursday,1,2243.85,4,4,Shopping
+Amazon,CARD,6604.4,15,Saturday,5,7027.05,29,0,Shopping
+City Hospital,CARD,2362.81,12,Monday,1,2609.13,4,27,Healthcare
+Local Store,UPI,9938.64,19,Sunday,1,15473.1,2,16,Shopping
+MakeMyTrip,UPI,18881.8,21,Saturday,1,22613.96,1,24,Travel
+Fashion Point,CARD,628.83,16,Wednesday,1,658.11,5,9,Shopping
+Cab Service,CASH,897.04,17,Friday,4,836.49,8,1,Transport
+Fashion Point,UPI,1894.2,17,Wednesday,1,1998.52,28,2,Shopping
+Campus Canteen,UPI,1362.83,20,Monday,7,1088.41,11,2,Food
+Ananya Stores,UPI,246.93,8,Saturday,3,278.6,12,0,Groceries
+Rahul Kumar,UPI,88.66,9,Thursday,2,198.99,15,2,Food
+Priya Foods,NETBANKING,294.52,12,Sunday,5,363.98,27,1,Food
+Ananya Stores,UPI,2423.75,12,Monday,4,3678.02,5,1,Groceries
+BookMyShow,CARD,162.81,19,Wednesday,1,154.31,4,21,Entertainment
+Electro World,CARD,868.47,14,Friday,1,574.28,16,3,Shopping
+College Office,NETBANKING,1131.8,11,Monday,1,1459.83,3,78,Education
+Flipkart,CASH,1095.1,19,Wednesday,1,1473.08,4,3,Shopping
+Ravi,UPI,13720.65,13,Tuesday,3,12227.39,6,29,Transfer
+Training Center,UPI,344.32,12,Tuesday,1,340.19,4,41,Education
+Rakesh,NETBANKING,125.41,20,Sunday,5,114.44,13,2,Food
+YouTube,NETBANKING,100.98,21,Tuesday,1,64.57,5,21,Subscriptions
+Hostel Rent,UPI,15909.8,8,Friday,1,23772.21,1,30,Rent
+Rajesh,CASH,12122.13,10,Wednesday,2,20421.25,4,12,Rent
+Local Cafe,UPI,190.75,12,Sunday,5,197.67,5,1,Food
+Kumar Enterprises,CARD,7315.21,20,Thursday,2,15289.1,13,1,Shopping
+Power Services,UPI,465.03,14,Thursday,1,417.97,4,14,Bills
+Local Mart,CASH,952.38,12,Sunday,2,803.11,7,1,Groceries
+Green Bites,UPI,222.69,8,Saturday,4,237.07,8,1,Food
+Cab Service,UPI,596.53,10,Monday,5,593.31,11,1,Transport
+Movie Zone,UPI,460.1,14,Wednesday,2,616.53,6,5,Entertainment
+Electro World,UPI,2422.59,20,Tuesday,1,1548.99,8,4,Shopping
+PVR,CARD,101.1,15,Friday,3,71.84,5,5,Entertainment
+Fashion Point,CARD,379.18,17,Sunday,1,442.3,13,5,Shopping
+Health Care,UPI,639.38,8,Saturday,1,495.46,7,11,Healthcare
+General Store,UPI,1179.55,17,Thursday,4,953.17,7,3,Shopping
+Electricity Office,UPI,2064.95,10,Friday,3,2032.69,1,2,Bills
+BSNL,UPI,1682.15,15,Tuesday,2,854.27,5,1,Bills
+Ola Cabs,UPI,354.38,21,Wednesday,5,277.2,23,2,Transport
+Uber,UPI,2249.04,20,Tuesday,5,5808.16,12,2,Transport
+University Fees,UPI,378.57,10,Monday,1,316.63,2,29,Education
+Gaming Cafe,CARD,101.48,14,Friday,1,114.53,13,8,Entertainment
+Fresh Point,UPI,803.28,8,Wednesday,1,574.68,20,8,Groceries
+Myntra,UPI,455.83,18,Friday,1,390.76,22,9,Shopping
+Kumar Cafe,UPI,228.3,9,Saturday,5,158.13,12,4,Food
+BSNL,UPI,358.56,10,Thursday,2,596.05,2,15,Bills
+Water Board,UPI,2203.73,12,Monday,1,2309.02,4,30,Bills
+Rajesh,NETBANKING,8895.94,10,Friday,1,6900.15,2,3,Rent
+City Hospital,UPI,3701.64,15,Tuesday,1,2052.82,11,38,Healthcare
+Local Store,UPI,651.65,16,Sunday,2,377.91,3,15,Shopping
+Rapido,UPI,1089.59,18,Friday,4,969.45,24,3,Transport
+City Hospital,UPI,7891.56,15,Monday,1,4257.09,4,120,Healthcare
+Ananya Stores,CARD,1154.76,20,Monday,4,1275.4,12,4,Groceries
+Priya Sharma,CASH,20800.79,15,Sunday,1,22756.63,4,15,Transfer
+Rakesh,CASH,91.65,20,Monday,3,78.57,34,1,Food
+Maa Grocery,CARD,276.75,10,Tuesday,2,483.26,8,3,Groceries
+Friend,UPI,16506.23,10,Saturday,1,10805.97,13,6,Transfer
+Electro World,UPI,5303.82,12,Sunday,1,8246.22,15,4,Shopping
+Daily Needs,CARD,3225.9,19,Friday,1,4799.72,13,1,Groceries
+Ananya Stores,UPI,465.28,18,Wednesday,2,361.16,5,6,Groceries
+Ola Cabs,UPI,180.35,13,Saturday,4,138.7,45,3,Transport
+City Mart,NETBANKING,186.65,10,Tuesday,2,181.53,3,1,Groceries
+Electricity Office,NETBANKING,400.16,14,Wednesday,1,307.18,3,23,Bills
+Sai Restaurant,UPI,459.04,19,Saturday,3,628.69,20,1,Food
+Auto Driver,UPI,738.25,8,Monday,2,826.55,7,4,Transport
+Electro World,UPI,9968.73,15,Saturday,1,8499.01,5,5,Shopping
+Exam Cell,UPI,6091.58,8,Thursday,1,4137.48,1,180,Education
+Auto Driver,NETBANKING,71.04,22,Friday,3,59.91,44,3,Transport
+Priya Foods,NETBANKING,136.41,21,Tuesday,5,150.1,51,1,Food
+Auto Driver,CARD,106.31,19,Thursday,5,89.56,4,2,Transport
+Arjun,UPI,6168.16,18,Thursday,3,5972.64,3,1,Transfer
+Green Bites,UPI,1395.02,9,Monday,6,1643.9,7,1,Food
+Priya Sharma,NETBANKING,600.73,14,Wednesday,1,555.42,2,13,Transfer
+Travel Agency,CASH,10133.95,6,Sunday,1,10504.8,2,2,Travel
+Daily Needs,UPI,2225.32,18,Saturday,5,2521.77,15,5,Groceries
+Landlord,CARD,6331.98,12,Sunday,1,5514.41,2,68,Rent
+Rajesh,NETBANKING,12989.0,18,Friday,1,7924.07,4,13,Rent
+Suresh,UPI,666.73,8,Saturday,4,579.72,10,0,Food
+Landlord,NETBANKING,6916.25,12,Wednesday,1,6627.31,3,4,Rent
+Health Care,CARD,1120.79,14,Sunday,1,1032.44,3,64,Healthcare
+Hostel Rent,UPI,13254.68,18,Saturday,2,12380.01,3,25,Rent
+Uber,UPI,2342.99,18,Tuesday,7,2409.59,4,2,Transport
+Hotel,CASH,5243.18,7,Wednesday,1,3786.05,4,31,Travel
+Maa Grocery,UPI,3483.75,8,Saturday,4,3837.81,10,3,Groceries
+Movie Zone,CARD,116.13,22,Saturday,3,78.18,3,30,Entertainment
+Game Store,UPI,120.34,21,Wednesday,2,74.57,19,13,Entertainment
+Kumar Cafe,UPI,558.7,21,Wednesday,6,307.86,5,4,Food
+Local Pharmacy,UPI,1923.57,10,Wednesday,1,2603.14,2,10,Healthcare
+Water Board,CARD,1723.82,16,Saturday,1,2877.49,9,23,Bills
+Jio,CARD,2781.0,20,Thursday,2,2501.01,9,1,Bills
+Daily Needs,UPI,276.16,11,Tuesday,2,273.69,12,5,Groceries
+Amazon Prime,CARD,230.29,21,Friday,1,127.67,7,15,Subscriptions
+Priya Foods,UPI,392.01,8,Friday,5,386.93,14,3,Food
+Online Course,UPI,785.99,18,Friday,1,728.34,6,112,Education
+Kumar Cafe,UPI,192.53,8,Thursday,3,223.68,14,3,Food
+Property Manager,NETBANKING,29855.07,20,Monday,1,30000.0,2,30,Rent
+MakeMyTrip,NETBANKING,5679.77,8,Monday,1,4342.22,2,4,Travel
+Suresh,UPI,94.34,21,Friday,4,108.72,9,8,Food
+Clinic,UPI,7283.48,13,Wednesday,2,7852.37,4,160,Healthcare
+Electricity Office,UPI,467.39,9,Sunday,2,1296.14,2,3,Bills
+Room Owner,UPI,19378.09,20,Wednesday,1,25745.26,2,11,Rent
+Kumar Cafe,CARD,80.7,13,Friday,6,95.38,37,2,Food
+Water Board,CARD,6920.68,20,Sunday,1,9447.11,4,23,Bills
+Rakesh,UPI,163.31,19,Saturday,5,97.55,10,0,Food
+Kumar Cafe,CARD,81.06,14,Friday,6,92.06,10,3,Food
+Fashion Point,UPI,8401.44,14,Saturday,4,8536.48,12,0,Shopping
+PVR,CARD,264.08,17,Tuesday,3,299.81,3,5,Entertainment
+City Mart,UPI,3334.12,17,Friday,2,4382.51,16,0,Groceries
+Fresh Basket,UPI,570.86,21,Tuesday,1,744.57,5,5,Groceries
+Reliance Smart,UPI,1075.39,20,Friday,1,1875.97,10,1,Groceries
+Amazon,CARD,647.58,15,Thursday,1,328.84,7,1,Shopping
+Reliance Smart,CARD,1881.22,11,Saturday,3,3041.96,11,7,Groceries
+Amazon,CARD,10329.14,16,Sunday,3,10252.26,13,10,Shopping
+Health Care,CARD,9955.89,15,Wednesday,1,18570.86,3,21,Healthcare
+College Office,UPI,346.46,8,Wednesday,2,110.57,3,8,Education
+Fresh Point,CARD,2713.19,18,Saturday,1,3937.71,13,2,Groceries
+Online Course,CARD,365.85,8,Wednesday,5,489.95,8,10,Education
+Green Bites,UPI,989.99,8,Thursday,4,1469.99,10,2,Food
+Gaming Cafe,CARD,294.77,12,Thursday,1,377.19,1,11,Entertainment
+Kumar Enterprises,CARD,3102.9,11,Saturday,2,4458.59,14,23,Shopping
+Fashion Point,CARD,2625.72,18,Monday,2,2400.41,5,1,Shopping
+Amazon,UPI,1226.3,14,Saturday,1,1967.67,10,37,Shopping
+Rapido,UPI,235.38,10,Sunday,5,195.35,8,8,Transport
+City Bus,UPI,298.88,8,Thursday,2,294.39,25,0,Transport
+Arjun,UPI,1897.23,16,Saturday,2,1567.1,10,6,Transfer
+Daily Needs,CARD,574.36,17,Tuesday,5,577.06,19,0,Groceries
+Medical Store,NETBANKING,488.11,14,Saturday,1,542.27,6,23,Healthcare
+Airline,CARD,4996.84,12,Friday,1,5858.67,4,50,Travel
+BookMyShow,NETBANKING,164.57,12,Thursday,1,172.12,2,12,Entertainment
+Local Store,CARD,224.36,19,Thursday,3,312.24,5,1,Shopping
+Daily Needs,UPI,1140.74,11,Wednesday,2,842.0,8,1,Groceries
+Local Store,CARD,1004.09,15,Thursday,1,709.34,5,1,Shopping
+Game Store,CASH,182.21,19,Monday,2,229.05,8,12,Entertainment
+Cab Service,UPI,189.95,10,Saturday,4,223.02,18,7,Transport
+Daily Needs,CARD,1715.44,21,Wednesday,5,1451.57,16,0,Groceries
+Exam Cell,UPI,2794.1,19,Monday,2,1435.47,1,32,Education
+Property Manager,UPI,6985.88,19,Thursday,1,10960.37,1,52,Rent
+Flipkart,CARD,2714.53,12,Tuesday,2,2540.11,5,20,Shopping
+Online Course,UPI,1912.24,8,Sunday,1,2375.97,5,51,Education
+Kumar Cafe,CARD,275.74,21,Saturday,3,317.06,21,2,Food
+Amazon Prime,CARD,311.96,1,Sunday,1,399.8,22,19,Subscriptions
+Fresh Basket,UPI,189.93,8,Saturday,1,209.73,3,4,Groceries
+Rahul Kumar,CARD,219.05,8,Friday,4,318.39,13,1,Food
+Metro Cab,UPI,699.2,9,Tuesday,3,509.41,13,1,Transport
+City Bus,NETBANKING,1629.97,13,Saturday,2,1936.67,11,1,Transport
+Internet Services,UPI,510.96,11,Sunday,2,840.95,10,18,Bills
+Electro World,CASH,852.66,17,Thursday,2,1321.85,16,0,Shopping
+Rapido,UPI,49.02,9,Wednesday,6,64.76,27,5,Transport
+General Store,CARD,1798.81,15,Friday,1,1347.85,1,4,Shopping
+City Mart,UPI,2173.39,21,Sunday,3,3385.05,11,2,Groceries
+General Store,CASH,1295.11,14,Tuesday,4,2090.83,7,16,Shopping
+Apollo,UPI,2819.88,11,Tuesday,1,1340.9,7,58,Healthcare
+Amazon,CARD,1723.63,11,Sunday,1,2070.55,10,21,Shopping
+Maa Grocery,CARD,317.91,10,Friday,2,389.89,6,13,Groceries
+Electricity Office,CARD,1557.95,15,Friday,1,2088.18,4,10,Bills
+Fresh Point,UPI,535.83,8,Sunday,5,462.89,9,7,Groceries
+Kumar Enterprises,UPI,2406.2,10,Tuesday,4,1669.59,3,8,Shopping
+Local Cafe,CASH,516.63,12,Friday,2,755.43,5,1,Food
+Kumar Cafe,CARD,1267.09,21,Tuesday,3,957.16,6,4,Food
+City Hospital,CARD,256.94,10,Sunday,1,281.54,5,118,Healthcare
+Movie Zone,UPI,2063.76,15,Friday,1,2586.45,23,3,Entertainment
+Water Board,UPI,3275.48,10,Monday,1,2046.08,2,4,Bills
+Ola Cabs,CASH,2391.16,18,Friday,3,2334.64,14,2,Transport
+Rakesh,UPI,1209.07,12,Sunday,5,759.69,44,1,Food
+Local Cafe,NETBANKING,117.04,19,Sunday,5,201.6,15,0,Food
+Annapurna,UPI,252.39,8,Saturday,7,165.58,5,6,Food
+Jio,UPI,2113.06,16,Thursday,1,760.17,10,95,Bills
+Green Bites,UPI,1303.2,20,Saturday,2,989.16,14,1,Food
+Local Store,UPI,1275.12,10,Monday,1,1283.55,7,10,Shopping
+Book Store,UPI,1256.78,10,Thursday,1,1215.32,1,12,Education
+Auto Driver,UPI,2206.04,10,Friday,1,3611.09,18,0,Transport
+Fresh Point,CARD,620.84,10,Thursday,1,619.79,14,8,Groceries
+Ananya Stores,UPI,2212.06,11,Friday,1,2694.23,43,6,Groceries
+Ola Cabs,UPI,409.83,8,Wednesday,5,471.81,14,16,Transport
+Kumar Cafe,UPI,105.09,7,Tuesday,2,80.77,4,0,Food
+Campus Canteen,UPI,481.26,20,Saturday,6,590.71,20,2,Food
+PVR,UPI,320.62,22,Friday,3,274.2,6,4,Entertainment
+Spotify,UPI,680.25,23,Wednesday,3,546.39,4,5,Subscriptions
+Clinic,CARD,2682.87,15,Sunday,1,1741.61,11,12,Healthcare
+Campus Canteen,UPI,371.28,22,Monday,1,293.42,5,2,Food
+Green Bites,UPI,762.18,19,Tuesday,4,810.27,3,6,Food
+Airtel,UPI,1600.01,15,Wednesday,1,1120.73,9,7,Bills
+Rajesh,NETBANKING,8547.05,21,Tuesday,3,6575.15,3,30,Rent
+Airtel,UPI,936.65,14,Saturday,1,1017.4,11,34,Bills
+Room Owner,CASH,17393.82,12,Saturday,1,22037.89,10,10,Rent
+Auto Driver,CARD,583.68,18,Friday,5,574.85,45,0,Transport
+Travel Agency,UPI,5046.26,18,Wednesday,1,2189.19,3,33,Travel
+Flipkart,CARD,823.24,11,Wednesday,1,1219.38,17,15,Shopping
+Suresh,UPI,179.59,14,Saturday,2,224.58,15,2,Food
+Cab Service,UPI,399.72,8,Wednesday,2,322.98,34,7,Transport
+Rahul Kumar,UPI,1075.43,7,Wednesday,1,1216.2,12,3,Food
+Gaming Cafe,NETBANKING,132.84,15,Thursday,1,144.69,8,11,Entertainment
+Fresh Point,UPI,568.37,17,Saturday,3,583.21,5,5,Groceries
+Campus Canteen,CARD,676.09,20,Tuesday,3,859.28,48,4,Food
+City Mart,UPI,3250.16,18,Monday,2,1929.73,50,0,Groceries
+Movie Zone,CARD,1244.56,20,Thursday,3,1701.57,4,5,Entertainment
+Local Cafe,CARD,137.53,13,Saturday,6,147.67,5,2,Food
+Airline,UPI,6422.42,16,Friday,1,9472.87,16,79,Travel
+Cab Service,CASH,141.02,21,Thursday,7,292.41,15,1,Transport
+Sai Restaurant,UPI,424.39,21,Thursday,2,403.3,12,2,Food
+Fashion Point,CARD,612.97,12,Friday,1,318.37,3,15,Shopping
+Sai Restaurant,CARD,211.54,19,Wednesday,7,215.76,14,1,Food
+Green Bites,UPI,843.05,14,Wednesday,4,591.59,21,1,Food
+Fresh Basket,NETBANKING,162.26,8,Saturday,3,164.04,5,7,Groceries
+Friend,UPI,1123.7,17,Wednesday,1,1509.98,15,4,Transfer
+BSNL,CARD,3939.37,20,Friday,2,3167.55,4,10,Bills
+Arjun,CARD,13510.14,9,Monday,1,9276.58,5,22,Transfer
+Movie Zone,UPI,1079.08,12,Thursday,3,848.21,4,12,Entertainment
+Training Center,CARD,1342.59,10,Monday,1,1262.54,2,11,Education
+Local Pharmacy,CARD,210.65,18,Wednesday,1,269.75,4,52,Healthcare
+Power Services,CARD,1899.02,9,Monday,1,1834.94,3,41,Bills
+Rahul Kumar,CARD,477.36,8,Saturday,6,337.42,8,2,Food
+Myntra,CARD,9009.83,19,Wednesday,1,4577.85,3,47,Shopping
+Online Course,NETBANKING,12187.07,18,Tuesday,1,4720.76,3,118,Education
+Green Bites,CARD,145.96,19,Saturday,6,211.26,7,2,Food
+Myntra,NETBANKING,968.41,20,Wednesday,1,1189.39,9,7,Shopping
+Auto Driver,CASH,41.19,10,Friday,4,40.0,19,2,Transport
+Annapurna,CARD,193.24,7,Saturday,5,103.96,40,2,Food
+Priya Foods,UPI,134.58,12,Monday,5,120.98,10,5,Food
+Fresh Basket,UPI,1607.02,19,Tuesday,6,1717.37,12,1,Groceries
+City Hospital,UPI,745.62,14,Monday,2,540.35,6,24,Healthcare
+Metro Cab,CARD,176.65,22,Wednesday,5,158.95,9,9,Transport
+Kumar Cafe,UPI,492.65,8,Thursday,4,699.82,17,1,Food
+Book Store,UPI,325.9,10,Sunday,2,514.53,2,14,Education
+Electricity Office,CASH,609.57,18,Thursday,1,1399.49,2,0,Bills
+Fashion Point,CARD,390.45,18,Friday,1,225.94,7,2,Shopping
+Ananya Stores,UPI,528.18,18,Wednesday,1,496.27,6,3,Groceries
+Jio,UPI,3024.65,18,Thursday,1,2100.98,4,10,Bills
+Gaming Cafe,CARD,1202.21,21,Friday,1,1131.27,6,1,Entertainment
+Annapurna,UPI,304.74,12,Friday,3,265.65,4,1,Food
+Local Cafe,CARD,95.49,12,Wednesday,5,66.1,9,1,Food
+Local Cafe,UPI,1326.95,8,Thursday,1,3176.43,7,1,Food
+General Store,CARD,3658.24,12,Saturday,1,4178.25,13,17,Shopping
+Uber,CARD,127.02,18,Thursday,4,92.05,12,7,Transport
+Electricity Office,CARD,525.36,9,Tuesday,1,708.44,7,21,Bills
+Gaming Cafe,CARD,432.98,15,Wednesday,2,334.68,9,88,Entertainment
+Travel Agency,NETBANKING,576.03,10,Tuesday,1,313.26,4,39,Travel
+Kiran,UPI,373.09,16,Saturday,1,381.75,8,11,Transfer
+Jio,UPI,4526.87,16,Thursday,1,5619.94,2,2,Bills
+Rakesh,UPI,775.42,13,Tuesday,5,683.7,15,1,Food
+Landlord,NETBANKING,21229.46,20,Monday,1,16384.39,6,7,Rent
+Rahul Kumar,NETBANKING,322.42,7,Sunday,4,180.25,4,0,Food
+Electro World,CASH,4101.64,21,Sunday,2,5899.61,14,4,Shopping
+Cloud Service,CARD,523.13,1,Tuesday,1,752.66,2,21,Subscriptions
+Priya Sharma,UPI,3475.88,12,Wednesday,2,1539.35,2,5,Transfer
+Rapido,CARD,307.3,21,Wednesday,4,274.58,16,1,Transport
+Kiran,UPI,5544.13,20,Thursday,2,11643.73,17,1,Transfer
+Suresh,UPI,247.12,7,Thursday,6,278.41,14,3,Food
+Software Service,NETBANKING,678.56,22,Tuesday,1,735.14,2,15,Subscriptions
+Water Board,NETBANKING,1335.49,18,Wednesday,1,1857.69,2,8,Bills
+Gaming Cafe,CARD,280.55,15,Sunday,2,337.9,19,10,Entertainment
+Fresh Basket,CASH,935.5,8,Sunday,4,1472.17,16,4,Groceries
+Annapurna,UPI,296.49,9,Monday,2,256.47,6,3,Food
+Daily Needs,UPI,1500.11,20,Tuesday,2,1415.05,13,0,Groceries
+Kumar Enterprises,CASH,450.96,11,Wednesday,1,421.83,5,1,Shopping
+Exam Cell,UPI,3406.81,18,Saturday,4,1957.64,11,6,Education
+Metro Cab,UPI,64.81,22,Monday,6,57.47,23,2,Transport
+Cab Service,UPI,2115.1,7,Saturday,7,2639.68,17,1,Transport
+Event Ticket,NETBANKING,115.57,21,Tuesday,1,135.43,4,15,Entertainment
+Maa Grocery,UPI,322.01,17,Sunday,1,259.54,3,2,Groceries
+Power Services,CARD,1823.37,20,Monday,3,1511.99,9,9,Bills
+Internet Services,UPI,1311.6,15,Tuesday,1,1699.52,3,34,Bills
+Medical Store,UPI,2082.71,11,Saturday,1,2942.34,3,11,Healthcare
+Online Course,UPI,10116.73,8,Tuesday,2,19237.65,4,13,Education
+Fresh Basket,UPI,451.8,11,Wednesday,4,812.44,13,1,Groceries
+Auto Driver,NETBANKING,1065.68,17,Tuesday,3,2068.86,11,5,Transport
+Hotel,UPI,695.98,12,Saturday,1,926.6,4,20,Travel
+Training Center,UPI,15568.13,8,Friday,1,16064.04,8,28,Education
+Suresh,UPI,240.8,7,Sunday,3,251.14,16,0,Food
+Local Pharmacy,CASH,373.33,10,Tuesday,3,577.34,7,75,Healthcare
+Rahul Kumar,CARD,1325.83,19,Wednesday,4,1058.36,21,6,Food
+Auto Driver,UPI,894.08,18,Sunday,5,463.31,18,8,Transport
+Metro Cab,UPI,182.43,8,Tuesday,1,222.9,25,1,Transport
+Training Center,UPI,1086.1,18,Monday,2,1638.99,1,118,Education
+Rapido,UPI,387.86,13,Saturday,5,325.83,11,1,Transport
+Amazon,CARD,5085.44,10,Tuesday,4,10057.62,6,3,Shopping
+Ola Cabs,CASH,2023.98,20,Monday,4,3044.56,13,1,Transport
+Reliance Smart,NETBANKING,368.46,20,Saturday,5,276.84,8,0,Groceries
+Water Board,CARD,545.83,12,Monday,2,628.99,4,5,Bills
+Maa Grocery,CARD,586.94,11,Friday,4,602.11,4,5,Groceries
+Campus Canteen,UPI,1309.23,22,Tuesday,5,839.13,5,2,Food
+Friend,UPI,1125.18,22,Sunday,1,756.45,7,16,Transfer
+Local Mart,CARD,2985.97,8,Thursday,2,2716.08,7,3,Groceries
+Movie Zone,CARD,2781.33,17,Sunday,2,1488.27,12,15,Entertainment
+Local Store,CARD,606.18,12,Friday,1,726.72,23,10,Shopping
+Amazon,CARD,296.53,18,Monday,4,199.4,14,32,Shopping
+General Store,CARD,6287.94,14,Sunday,1,7143.63,9,5,Shopping
+Internet Services,UPI,596.71,9,Tuesday,2,493.99,8,4,Bills
+Annapurna,UPI,234.6,13,Saturday,6,194.25,10,0,Food
+Local Mart,UPI,960.91,20,Sunday,2,842.07,2,0,Groceries
+Property Manager,NETBANKING,28309.83,12,Wednesday,1,14788.29,5,12,Rent
+Cab Service,UPI,1453.24,10,Wednesday,5,1660.41,13,2,Transport
+YouTube,UPI,597.91,8,Friday,2,614.43,4,37,Subscriptions
+Priya Foods,UPI,221.81,19,Wednesday,3,166.76,28,1,Food
+Jio,UPI,391.97,9,Thursday,2,474.53,10,15,Bills
+Water Board,NETBANKING,908.57,14,Tuesday,1,1504.55,4,17,Bills
+Campus Canteen,UPI,681.59,22,Wednesday,4,578.52,44,1,Food
+Priya Foods,UPI,174.94,13,Monday,2,226.81,20,2,Food
+Rakesh,UPI,90.98,14,Tuesday,1,83.58,9,0,Food
+Flipkart,UPI,7744.84,11,Monday,1,9820.87,5,3,Shopping
+BookMyShow,CARD,135.07,15,Wednesday,2,106.2,6,15,Entertainment
+Campus Canteen,CARD,779.93,8,Sunday,4,969.21,26,1,Food
+Internet Services,UPI,846.23,20,Tuesday,1,576.75,14,6,Bills
+BSNL,UPI,5643.79,20,Wednesday,2,5731.81,3,5,Bills
+Annapurna,UPI,403.55,8,Tuesday,3,184.12,6,11,Food
+Fashion Point,CARD,326.84,17,Monday,1,186.7,10,28,Shopping
+YouTube,UPI,338.13,8,Monday,1,469.04,1,8,Subscriptions
+Gaming Cafe,UPI,363.62,21,Monday,3,302.6,2,4,Entertainment
+Metro Cab,UPI,44.66,8,Saturday,3,43.38,39,12,Transport
