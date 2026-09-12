@@ -162,6 +162,11 @@ public class Users {
     private String nominee;
     private String holderType;
 
+    public Users(String phoneNo, String passwordHash) {
+        this.phoneNo = phoneNo;
+        this.passwordHash = passwordHash;
+    }
+
     @OneToMany(mappedBy = "user", cascade = CascadeType.ALL, orphanRemoval = true)
     private List<Consent> consents = new ArrayList<>();
 
